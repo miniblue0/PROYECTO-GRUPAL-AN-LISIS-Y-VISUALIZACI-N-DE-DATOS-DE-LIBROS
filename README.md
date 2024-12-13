@@ -3,7 +3,7 @@
 
 ### Flujo de Trabajo
 
-- 1. Clonar el Repositorio
+-  Clonar el Repositorio
     Para comenzar a trabajar en el proyecto, clona el repositorio ejecutando el siguiente comando en tu terminal: 
     ```bash
     git clone https://github.com/miniblue0/PROYECTO-GRUPAL-ANALISIS-Y-VISUALIZACION-DE-DATOS-DE-LIBROS.git
@@ -13,17 +13,17 @@
     cd PROYECTO-GRUPAL-ANALISIS-Y-VISUALIZACION-DE-DATOS-DE-LIBROS
     ```
 
-- 2. Instalación de Dependencias
+-  Instalación de Dependencias
     Instala las dependencias con el siguiente comando:
     
     ```bash
     pip install -r requirements.txt
     ```
 
-- 3. Configuracion:
+-  Configuracion:
      Crea un archivo .env y configura las credenciales para la API de Google Books, el Data Lake y SQL Server.
      
-- 4. Crear una Nueva Rama de Trabajo
+-  Crear una Nueva Rama de Trabajo
     Es importante que cada uno trabaje en una rama separada. Para crear tu rama:
     
     Asegúrate de estar en la rama main:
@@ -42,7 +42,7 @@
     ```bash
     git checkout -b mario-extraer
     ```
-- 5. Hacer Cambios y Confirmarlos (Commit)
+-  Hacer Cambios y Confirmarlos (Commit)
     Cuando hayas realizado cambios en los archivos del proyecto, agrégalos al área de preparación y haz el commit:
     
     Agrega todos los archivos modificados al área de preparación:
@@ -59,7 +59,7 @@
     git push origin nombre-de-tu-rama
     ```
 
-- 7. Crear una Pull Request (PR)
+-  Crear una Pull Request (PR)
     Una vez que hayas terminado tu trabajo y subido todos los cambios:
     
     Ve a la página del repositorio en GitHub y entra en tu rama de trabajo.
@@ -67,11 +67,11 @@
     Escribe un título y una descripción detallada sobre los cambios realizados.
     Haz clic en "Create Pull Request".
 
-- 8. Revisión y Fusión de la Pull Request
+-  Revisión y Fusión de la Pull Request
     Yo voy a revisar la Pull Request para probar el codigo y asegurarme que todo esté implementado correctamente.
     Si todo está bien, fusionaré la PR con la rama main.
 
-- 9. Actualizar tu Rama Local con los Cambios de main
+-  Actualizar tu Rama Local con los Cambios de main
     Después de que se fusione una Pull Request tienen que actualizar su repositorio local con los nuevos cambios:
     
     Asegúrate de estar en la rama main:
