@@ -1,0 +1,1 @@
+#en este archivo solo debe estar el proceso para mostrar los datos, ya sea con pandas, matplotlib o seaborn.
