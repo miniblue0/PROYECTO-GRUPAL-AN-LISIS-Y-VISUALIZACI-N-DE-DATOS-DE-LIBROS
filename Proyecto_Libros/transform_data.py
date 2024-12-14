@@ -6,12 +6,16 @@ from dotenv import load_dotenv
 
 
 #transformacion de los datos
-def transform_data():
-    books = extract_data(query = 'book', max_results = 1)
-    datosTransformados = []
+def transform_data(raw_path):
+    with open(raw_path, 'r') as f:
+        books = json.load(f)
+    
+    datos_transformados = []
+
     #transformacion de los datos
     for iten in books:
-        popularidad_categoria=iten.get("volumeInfo").get("ratingsCount")
+        volume_info=iten.get("volumeInfo",{})  #si no hay volumeInfo, se le asigna un diccionario vacio
+        popularidad_categoria=volume_info.get("ratingsCount")
         #categorizacion de la popularidad
         if popularidad_categoria is not None:
             PromPolularidad=(popularidad_categoria/5)*100
@@ -22,22 +26,25 @@ def transform_data():
             else:
                 PromPopularidad="BAJA"
         else:
-            PromPopularidad="BAJA"
+            PromPopularidad="BAJA" #si no hay popularidad, se le asigna BAJA
 
-        datosTransformados.append({
-            "id":iten.get("id"),
-            "title":iten.get("volumeInfo").get("title"),
-            "authors":iten.get("volumeInfo").get("authors"),
-            "publishedDate":iten.get("volumeInfo").get("publishedDate"),
-            "popularity":iten.get("volumeInfo").get("averageRating"),
-            "description":iten.get("volumeInfo").get("description"),
-            "popularity_category":popularidad_categoria
+        datos_transformados.append({
+            "id":iten.get("id").lower(),
+            "title":volume_info.get("title"),
+            "authors":volume_info.get("authors"),
+            "publishedDate":volume_info.get("publishedDate"),
+            "popularity":volume_info.get("averageRating"),
+            "description":volume_info.get("description"),
+            "popularity_category":PromPopularidad
         })
-    print(pd.DataFrame(datosTransformados))
-    return datosTransformados
-
-transform_data()
-
+    df = pd.DataFrame(datos_transformados)
+    print(df)
+    return datos_transformados
+#cargo la ruta actual 
+project_dir = os.path.dirname(os.path.abspath(__file__))
+#ruta al json con los datos en crudo 
+raw_path = os.path.join(project_dir, "raw_books.json")
+transform_data(raw_path)
 
 #en este archivo solo debe ir el proceso para transformar los datos recibidos de la api
 

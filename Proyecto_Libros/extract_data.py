@@ -5,8 +5,10 @@ import json
 from config import GOOGLE_BOOKS_API_KEY
 
 
-##hago la peticion de siempre a la api pero use un maximo de libros (para poder ver mejor los datos) si cambian max_results les devuelve mas o menos libros
-def extract_data(query = 'book', max_results = 1):
+##hago la peticion de siempre a la api pero use un maximo de libros (para poder ver mejor los datos) si cambian max_results les devuelve mas o menos libros 
+
+results = 20     #agregue la variable para que se pueda cambiar de aca y no de la funcion
+def extract_data(query = 'book', max_results = results):
     url = f"https://www.googleapis.com/books/v1/volumes?q={query}&key={GOOGLE_BOOKS_API_KEY}&maxResults={max_results}"
     response = requests.get(url)
     if response.status_code == 200:
@@ -25,5 +27,5 @@ def save_raw_data(books_data, output_path):
     print(f"Datos crudos guardados en {output_path}")
 
 
-books = extract_data(query = 'book', max_results = 1)
+books = extract_data(query = 'book')
 save_raw_data(books, "Proyecto_Libros/raw_books.json")
