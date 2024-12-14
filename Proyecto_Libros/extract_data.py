@@ -1,4 +1,4 @@
-#en este archivo debe estar el proceso para extraer y almacenar en el Data Lake sin ninguna transformacion.
+#en este archivo debe estar el proceso para extraer y almacenar en UN JSON sin ninguna transformacion.
 #from azure.storage.filedatalake import DataLakeServiceClient
 import requests
 import json
