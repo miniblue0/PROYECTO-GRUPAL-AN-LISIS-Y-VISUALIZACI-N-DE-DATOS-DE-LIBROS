@@ -2,14 +2,12 @@
 #from azure.storage.filedatalake import DataLakeServiceClient
 import requests
 import json
-#from config import GOOGLE_API_KEY
-GOOGLE_API_KEY = 'AIzaSyBaFXJ-cyL8THx4VcG_jsbLaUn13uc5Xng'
-
+from config import GOOGLE_BOOKS_API_KEY
 
 
 ##hago la peticion de siempre a la api pero use un maximo de libros (para poder ver mejor los datos) si cambian max_results les devuelve mas o menos libros
 def extract_data(query = 'book', max_results = 1):
-    url = f"https://www.googleapis.com/books/v1/volumes?q={query}&key={GOOGLE_API_KEY}&maxResults={max_results}"
+    url = f"https://www.googleapis.com/books/v1/volumes?q={query}&key={GOOGLE_BOOKS_API_KEY}&maxResults={max_results}"
     response = requests.get(url)
     if response.status_code == 200:
         books_data = response.json().get("items", [])
