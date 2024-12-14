@@ -1,0 +1,66 @@
+[
+    {
+        "kind": "books#volume",
+        "id": "vQHmAAAAMAAJ",
+        "etag": "mMijABeI/24",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vQHmAAAAMAAJ",
+        "volumeInfo": {
+            "title": "El candidato de Dios",
+            "authors": [
+                "Luis G. Basurto"
+            ],
+            "publishedDate": "1986",
+            "industryIdentifiers": [
+                {
+                    "type": "OTHER",
+                    "identifier": "UTEXAS:059173026932267"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 92,
+            "printType": "BOOK",
+            "categories": [
+                "Music"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.6.2.0.preview.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=vQHmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=vQHmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "es",
+            "previewLink": "http://books.google.com.ar/books?id=vQHmAAAAMAAJ&q=book&dq=book&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=vQHmAAAAMAAJ&dq=book&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/El_candidato_de_Dios.html?hl=&id=vQHmAAAAMAAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=vQHmAAAAMAAJ&hl=&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        }
+    }
+]
