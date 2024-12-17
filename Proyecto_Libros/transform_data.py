@@ -8,17 +8,17 @@ import os
 #transformacion de los datos
 def transform_data(raw_path, transformed_path):
     try:
-        # Leer los datos crudos desde el archivo
+        #lee los datos del json con los datos en crudo
         with open(raw_path, 'r') as f:
             books = json.load(f)
 
         datos_transformados = []
 
-        # Transformación de los datos
+        #transformacion de los datos
         for item in books:
             popularidad_categoria = item.get("volumeInfo", {}).get("ratingsCount")
                 
-            # Categorización de la popularidad
+            #categoriza la popularidad
             if popularidad_categoria is not None:
                 prom_popularidad = (popularidad_categoria / 5) * 100
                 if prom_popularidad >= 80:
@@ -40,10 +40,10 @@ def transform_data(raw_path, transformed_path):
                 "popularity_category": popularidad_categoria
             })
 
-        # Mostrar los datos transformados como un DataFrame para depuración
-        print(pd.DataFrame(datos_transformados))
 
-        # Guardar los datos transformados en un archivo JSON
+        #print(pd.DataFrame(datos_transformados))
+
+        #guarda los datos transformados en un json
         with open(transformed_path, 'w') as f:
             json.dump(datos_transformados, f, indent=4)
         print(f"Datos transformados guardados en {transformed_path}.")
