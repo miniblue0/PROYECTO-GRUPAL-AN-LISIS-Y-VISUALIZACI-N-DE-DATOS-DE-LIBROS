@@ -1,5 +1,6 @@
 #en este archivo solo debe ir el proceso para transformar los datos recibidos de la api
-#categorizando la popularidad en ALTA, MEDIA y BAJA. (si pueden hacerlo con porcentaje mejor :)   )
+#categorizando la popularidad en ALTA, MEDIA y BAJA. (si pueden hacerlo con porcentaje mejor :)   
+
 import pandas as pd
 import json
 import os
@@ -29,7 +30,6 @@ def transform_data(raw_path):
 
         #arma el diccionario ya transformado
         datos_transformados.append({
-            "id": item.get("id").lower(),
             "title": volume_info.get("title"),
             "authors": volume_info.get("authors"),
             "published_date": volume_info.get("publishedDate"),
@@ -38,12 +38,12 @@ def transform_data(raw_path):
             "popularity_category": PromPopularidad  
         })
 
-    df = pd.DataFrame(datos_transformados)
-    print(df)
+    #df = pd.DataFrame(datos_transformados)
+    #print(df)
     return datos_transformados
 
 
-#cargo la ruta actual 
+#cargo la ruta actual del archivo
 project_dir = os.path.dirname(os.path.abspath(__file__))
     
 #ruta al json con los datos en crudo 
