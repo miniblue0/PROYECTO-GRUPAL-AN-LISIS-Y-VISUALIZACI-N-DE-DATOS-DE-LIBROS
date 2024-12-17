@@ -44,9 +44,9 @@ def transform_data(raw_path, transformed_path):
         print(pd.DataFrame(datos_transformados))
 
         # Guardar los datos transformados en un archivo JSON
-        with open(output_path, 'w') as f:
+        with open(transformed_path, 'w') as f:
             json.dump(datos_transformados, f, indent=4)
-        print(f"Datos transformados guardados en {output_path}.")
+        print(f"Datos transformados guardados en {transformed_path}.")
 
     except Exception as e:
         print(f"Error al transformar los datos: {e}")
