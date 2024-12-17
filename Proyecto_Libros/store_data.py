@@ -2,106 +2,69 @@
 
 #la tabla puede tener por ejemplo: id, title, authors, publishedDate, popularity , description, popularity_category
 
-#-----------------------------------------------
-
-# Hasta ahora no pude poner a prueba el código, tuve dificultades
-# para obtener los datos, asi que si al probarlo algo sale mal
-# seguramente tenga que ver con eso...
-
-#-----------------------------------------------
-
-#Importando dependencias
 import pyodbc
-import requests
 import os
-from dotenv import load_dotenv
+from config import SQL_SERVER_CONNECTION_STRING #importo desde el archivo config las credenciales
+import json
 
-
-# Cargando variables de entorno (Desafortunadamente sólo conseguí hacerlo al introducir
-# toda la ruta local hasta el archivo .env)
-load_dotenv('C:\\Users\\Soraya\\Desktop\\Tommy\\CSE_110\\books_project\\PROYECTO-GRUPAL-ANALISIS-Y-VISUALIZACION-DE-DATOS-DE-LIBROS\\Proyecto_Libros\\env_variables.env')
-
-# Obteniendo valores del archivo .env
-uid = os.getenv('SQL_USER')
-pwd = os.getenv('SQL_PWD')
-driver = os.getenv('DRIVER')
-
-# Parámetros de la función:
-# driver = El driver del motor SQL
-# server = El servidor SQL
-# database = La base de datos que se va a usar en la consulta
-# table = La tabla en la que se insertarán los datos
-# user = Usario con permisos en la base de datos
-# password = Contraseña del ususario para conectarse al servidor
-# data = La lista con los datos transformados que se van a cargar
-
-def upload_to_sql(driver, server, database, table, user, password, data):
+def load_to_sql_server(data, table_name, connection_string): #simplifique los parametros usando directamente la url de sql
 
     try:
-        print(f'Estableciendo conexión con el servidor {server}')
-
-        #Se establece la conexión con el servidor y la base de datos en SQL
-        conn = pyodbc.connect(f'DRIVER={driver};SERVER={server};DATABASE={database};UID={user};PWD={password}')
-
-        print('conexión establecida exitosamente')
-
-        #Se itera sobre cada elemento de la lista (cada libro) y se extraen cada uno de
-        #los valores de las columnas en un string separados por comas (de esta manera
-        # los datos pueden ser incluidos en una sentencia INSERT para que SQL pueda
-        # guardarlos en una tabla temporal que se usará más adelante)
-        values = ', '.join(f"({book['title']}, {book['authors']}, {book['publishedDate']}, {book['popularity']}, {book['description']}, {book['popularity_category']})" for book in data
-        )
-        
-        #Se crea un cursor para ejecutar consultas SQL en la conexión
+        conn = pyodbc.connect(connection_string)
         cursor = conn.cursor()
 
-        #Consulta que se va a ejecutar:
-        #Se crea una tabla temporal (#new_books), dentro de la cual se insertan los
-        #datos actualizados de los libros (guardados en la variable values).
-        #Luego, esta tabla temporal se une con la tabla de destino de los datos a
-        #través de un MERGE, de modo que se pueden mantener datos actualizados
-        #insertando los nuevos, actualizando los viejos y eliminando los obsoletos.
-        query = f"""
-        CREATE TABLE #new_books (
-            id int PRIMARY KEY IDENTITY(1,1),
-            title varchar(70),
-            authors varchar(70),
-            publishedDate date,
-            popularity decimal(10,2),
-            description varchar(100),
-            popularity_category varchar(10)
-        )
+        for row in data:
+            #reorganice el merge para comparar los datos
+            UPSERT = f"""
+            MERGE {table_name} AS target
+            USING (SELECT ? AS id, ? AS title, ? AS authors, ? AS publishedDate, ? AS popularity, 
+                          ? AS description, ? AS popularity_category) AS source
+            ON target.id = source.id
+            WHEN MATCHED THEN
+                UPDATE SET 
+                    title = source.title,
+                    authors = source.authors,
+                    publishedDate = source.publishedDate,
+                    popularity = source.popularity,
+                    description = source.description,
+                    popularity_category = source.popularity_category
+            WHEN NOT MATCHED THEN
+                INSERT (id, title, authors, publishedDate, popularity, description, popularity_category)
+                VALUES (source.id, source.title, source.authors, source.publishedDate, 
+                        source.popularity, source.description, source.popularity_category);
+            """
+            #ejecuta la consulta anterior con los valores de cada fila
+            cursor.execute(
+                UPSERT,
+                row['id'],
+                row['title'],
+                ', '.join(row['authors']) if row['authors'] else None,
+                row['publishedDate'],
+                row['popularity'],
+                row['description'],
+                row['popularity_category']
+            )
 
-        INSERT INTO #new_books (title, authors, publishedDate, popularity, description, popularity_category)
-        VALUES {values};
-
-        MERGE {table} AS TARGET
-        USING #new_books AS SOURCE
-        ON TARGET.title = SOURCE.title AND TARGET.authors = SOURCE.authors
-        WHEN MATCHED THEN
-            UPDATE SET
-                TARGET.popularity = SOURCE.popularity
-                TARGET.description = SOURCE.description
-                TARGET.popularity_category = SOURCE.popularity_category
-        WHEN NOT MATCHED BY TARGET THEN
-            INSERT (title, authors, publishedDate, popularity, description, popularity_category)
-            VALUES (SOURCE.title, SOURCE.authors, SOURCE.publishedDate, SOURCE.popularity, SOURCE.description, SOURCE.popularity_category)
-        WHEN NOT MATCHED BY SOURCE THEN
-            DELETE;
-        """
-
-        print('Ejecutando consulta SQL')
-
-        #Se ejecuta la consulta con todos los valores requeridos:
-        cursor.execute(query)
-        
-        #Se guardan los cambios y se cierra la conexión
+        #commit para confirmar los cambios
         conn.commit()
-        print('Cambios guardados')
-        
-    except Exception as e:
-        print(f'Error: {e}')
+        print(f"Datos cargados exitosamente en la tabla '{table_name}'.")
 
+    except Exception as e:
+        print(f"Error al cargar datos en SQL Server: {e}")
     finally:
         conn.close()
-        print('Conexión cerrada')
+
+
+#ruta al json con los datos transformados (para no tener que usar una tabla temporal como teniamos anteriormente)
+project_dir = os.path.dirname(os.path.abspath(__file__))
+transformed_file = os.path.join(project_dir, "transformed_books.json")
+
+#leo los datos del archivo
+with open(transformed_file, "r") as f:
+        transformed_data = json.load(f)
+
+#nombre de la tabla
+table_name = "books_popularity"
+
+#ejecuto la carga a sql
+load_to_sql_server(transformed_data, table_name, SQL_SERVER_CONNECTION_STRING)

@@ -6,48 +6,59 @@ import json
 import os
 
 #transformacion de los datos
-def transform_data(raw_path):
-    with open(raw_path, 'r') as f:
-        books = json.load(f)
+def transform_data(raw_path, transformed_path):
+    try:
+        # Leer los datos crudos desde el archivo
+        with open(raw_path, 'r') as f:
+            books = json.load(f)
 
-    datos_transformados = []
+        datos_transformados = []
 
-    for item in books:
-        volume_info = item.get("volumeInfo", {})
-        popularidad_categoria = volume_info.get("ratingsCount")
-
-        #arma la categoria de popularidad
-        if popularidad_categoria is not None:
-            PromPopularidad = (popularidad_categoria / 5) * 100
-            if PromPopularidad >= 80:
-                PromPopularidad = "ALTA"
-            elif PromPopularidad >= 40:
-                PromPopularidad = "MEDIA"
+        # Transformación de los datos
+        for item in books:
+            popularidad_categoria = item.get("volumeInfo", {}).get("ratingsCount")
+                
+            # Categorización de la popularidad
+            if popularidad_categoria is not None:
+                prom_popularidad = (popularidad_categoria / 5) * 100
+                if prom_popularidad >= 80:
+                    popularidad_categoria = "ALTA"
+                elif prom_popularidad >= 40:
+                    popularidad_categoria = "MEDIA"
+                else:
+                    popularidad_categoria = "BAJA"
             else:
-                PromPopularidad = "BAJA"
-        else:
-            PromPopularidad = "BAJA"
+                popularidad_categoria = "BAJA"
 
-        #arma el diccionario ya transformado
-        datos_transformados.append({
-            "title": volume_info.get("title"),
-            "authors": volume_info.get("authors"),
-            "published_date": volume_info.get("publishedDate"),
-            "popularity": volume_info.get("averageRating"),
-            "description": volume_info.get("description"),
-            "popularity_category": PromPopularidad  
-        })
+            datos_transformados.append({
+                "id": item.get("id"),
+                "title": item.get("volumeInfo", {}).get("title"),
+                "authors": item.get("volumeInfo", {}).get("authors"),
+                "publishedDate": item.get("volumeInfo", {}).get("publishedDate"),
+                "popularity": item.get("volumeInfo", {}).get("averageRating"),
+                "description": item.get("volumeInfo", {}).get("description"),
+                "popularity_category": popularidad_categoria
+            })
 
-    #df = pd.DataFrame(datos_transformados)
-    #print(df)
-    return datos_transformados
+        # Mostrar los datos transformados como un DataFrame para depuración
+        print(pd.DataFrame(datos_transformados))
+
+        # Guardar los datos transformados en un archivo JSON
+        with open(output_path, 'w') as f:
+            json.dump(datos_transformados, f, indent=4)
+        print(f"Datos transformados guardados en {output_path}.")
+
+    except Exception as e:
+        print(f"Error al transformar los datos: {e}")
 
 
 #cargo la ruta actual del archivo
 project_dir = os.path.dirname(os.path.abspath(__file__))
-    
-#ruta al json con los datos en crudo 
-raw_path = os.path.join(project_dir, "raw_books.json")
+
+raw_path = os.path.join(project_dir, "raw_books.json")#ruta al json con los datos en crudo 
+
+transformed_path = os.path.join(project_dir, "transformed_books.json") #ruta al nuevo archivo transformado
 
 
-transform_data(raw_path)
+
+transform_data(raw_path, transformed_path)
