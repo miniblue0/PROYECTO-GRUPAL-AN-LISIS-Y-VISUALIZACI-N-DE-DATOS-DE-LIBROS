@@ -1,5 +1,5 @@
 #en este archivo debe estar el proceso para extraer y almacenar en UN JSON sin ninguna transformacion.
-#from azure.storage.filedatalake import DataLakeServiceClient
+
 import requests
 import json
 from config import GOOGLE_BOOKS_API_KEY
