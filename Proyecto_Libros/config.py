@@ -17,3 +17,6 @@ GOOGLE_BOOKS_API_KEY = os.getenv("GOOGLE_BOOKS_API_KEY")
 
 #Credenciales de la base de datos
 SQL_SERVER_CONNECTION = os.getenv("SQL_SERVER_CONNECTION")
+
+#Valor predeterminado de 40 libros
+MAX_RESULTS = int(os.getenv("MAX_RESULTS", 40))  

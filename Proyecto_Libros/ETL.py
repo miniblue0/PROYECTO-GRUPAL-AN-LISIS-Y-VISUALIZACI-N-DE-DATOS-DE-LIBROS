@@ -4,7 +4,8 @@ from extract_data import extract_data, save_raw_data
 from transform_data import transform_data
 from load_to_datalake import upload_to_s3
 from store_data import load_to_sql
-from config import S3_BUCKET_NAME, SQL_SERVER_CONNECTION, GOOGLE_BOOKS_API_KEY
+
+from config import S3_BUCKET_NAME, SQL_SERVER_CONNECTION, GOOGLE_BOOKS_API_KEY, MAX_RESULTS
 
 def proceso_etl(query, max_results, s3_remote_path):
     try:
@@ -15,7 +16,7 @@ def proceso_etl(query, max_results, s3_remote_path):
 
 
         print("Iniciando extracción de datos...")
-        books_data = extract_data(query, max_results) #extraigo los datos
+        books_data = extract_data(query=query, max_results=MAX_RESULTS) #extraigo los datos
         save_raw_data(books_data, raw_file_path)#guardo los datos en crudo
         print("Extracción completada.")
 
