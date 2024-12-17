@@ -18,7 +18,7 @@ def extract_data(query = 'book', max_results = 1):
 
 
 
-##ahora guardo los libros en un archivo json aparte para luego subirlo al dataLake con azure
+##ahora guardo los libros en un archivo json aparte para luego subirlo al dataLake
 def save_raw_data(books_data, output_path):
     with open(output_path, 'w') as f:
         json.dump(books_data, f, indent=4)
