@@ -6,18 +6,15 @@ from datetime import datetime
 
 def convert_to_date(published_date):
     if not published_date:
-        return None  #si la fecha esta vacia o es none, retorna none
+        return None 
     
-    #print(f"Intentando convertir la fecha: {published_date}")
+    print(f"Intentando extraer el año de: {published_date}")
     try:
-        #primero intento formatearlo como'YYY-MM-DD'
-        return datetime.strptime(published_date, '%Y-%m-%d').date()
-    except ValueError:
-        try:
-            return datetime.strptime(published_date + '-01', '%Y-%m-%d').date() #si solo tiene mes y año le agrego un 01
-        except ValueError:
-            print(f"Error al convertir la fecha: {published_date}") #si no se pudo formatear lo dejo como none
-            return None
+        #cambie la funcion para que almacene solo el año de publicacion
+        return int(published_date.split('-')[0])
+    except Exception as e:
+        print(f"Error al extraer el año: {published_date} -> {e}")
+        return None
 
 def load_to_sql_server(data, table_name, connection): 
     print(f"Preparando para cargar {len(data)} libros a la base de datos...")
