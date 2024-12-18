@@ -1,7 +1,0 @@
-requests
-pyodbc
-pandas
-matplotlib
-seaborn
-python-dotenv
-boto3
