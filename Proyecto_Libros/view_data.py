@@ -70,6 +70,13 @@ def visualize_popularity():
     try:
         # Configurar el gráfico
         plt.figure(figsize=(10, 6))  # Tamaño del gráfico
+
+        # Opción 1: Eliminar los titulos que contengan NaN en popularity
+        # df = df.dropna(subset=['popularity'])  # Elimina filas con NaN en 'popularity'
+
+        # Opción 2: rellenar las popularidades que tienen valores NaN con 0 (si quiero mostrar aun los Titulos)
+        # df['popularity'] = df['popularity'].fillna(0)  # Reemplaza NaN con 0 en 'popularity'
+
         plt.bar(df['title'], df['popularity'], color='skyblue')  # Gráfico de barras
         
         # Personalizar el gráfico
