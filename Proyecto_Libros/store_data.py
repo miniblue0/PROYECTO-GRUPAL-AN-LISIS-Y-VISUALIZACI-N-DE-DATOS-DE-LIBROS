@@ -6,19 +6,17 @@ from datetime import datetime
 
 def convert_to_date(published_date):
     if not published_date:
-        return None  # Si la fecha está vacía o es None, retornamos None
+        return None  #si la fecha esta vacia o es none, retorna none
     
     #print(f"Intentando convertir la fecha: {published_date}")
     try:
-        # Intenta convertir en formato 'YYYY-MM-DD'
+        #primero intento formatearlo como'YYY-MM-DD'
         return datetime.strptime(published_date, '%Y-%m-%d').date()
     except ValueError:
-        # Si no es 'YYYY-MM-DD', tratamos de parsear como 'YYYY-MM' y le añadimos '-01'
         try:
-            return datetime.strptime(published_date + '-01', '%Y-%m-%d').date()
+            return datetime.strptime(published_date + '-01', '%Y-%m-%d').date() #si solo tiene mes y año le agrego un 01
         except ValueError:
-            # Si no se puede parsear, retornamos None
-            print(f"Error al convertir la fecha: {published_date}")
+            print(f"Error al convertir la fecha: {published_date}") #si no se pudo formatear lo dejo como none
             return None
 
 def load_to_sql_server(data, table_name, connection): 
@@ -34,10 +32,10 @@ def load_to_sql_server(data, table_name, connection):
                 print(f"Fecha invalida en el libro {row['title']}. Se omite el registro.")
                 continue
 
-            # Imprime la fecha convertida antes de la inserción
+            #depuro para ver las fechas
             #print(f"Fecha convertida para '{row['title']}': {published_date}")
 
-            # Si la fecha es válida, procedemos con el UPSERT
+            #si la fecha es valida ejecuta la query
             UPSERT = f"""
             MERGE {table_name} AS target
             USING (SELECT ? AS title, ? AS authors, ? AS published_date, ? AS popularity, 
@@ -73,7 +71,7 @@ def load_to_sql_server(data, table_name, connection):
     except Exception as e:
         print(f"Error al cargar datos en SQL Server: {e}")
     finally:
-        if 'conn' in locals():
+        if 'conn' in locals(): #si se pudo conectar cierra la coneccion, sino no
             conn.close()
 
 if __name__ == "__main__":

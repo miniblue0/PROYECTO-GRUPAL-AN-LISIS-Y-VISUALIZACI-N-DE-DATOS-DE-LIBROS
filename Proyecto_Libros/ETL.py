@@ -12,7 +12,7 @@ def proceso_etl(query, max_results, s3_remote_path):
     try:
         project_dir = os.path.dirname(os.path.abspath(__file__)) #ruta del proyecto
         raw_file_path = os.path.join(project_dir, "raw_books.json") #ruta de los archivos en crudo
-        transformed_books_path = os.path.join("Proyecto_Libros", "transformed_books.json")
+        transformed_books_path = os.path.join("Proyecto_Libros", "transformed_books.json") #ruta de los archivos transformados
         with open(transformed_books_path, 'r') as f:
             transformed_books = json.load(f)
 
