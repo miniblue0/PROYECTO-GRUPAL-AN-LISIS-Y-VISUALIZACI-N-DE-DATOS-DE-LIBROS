@@ -12,7 +12,7 @@ def extract_data(query = 'book', max_results = MAX_RESULTS):
     response = requests.get(url)
     if response.status_code == 200:
         books_data = response.json().get("items", [])
-        print(f"Se obtuvieron {len(books_data)} libros.")
+        print(f"Se obtuvieron {max_results} libros.")
         return books_data
     else:
         raise Exception(f"Error al obtener datos: {response.status_code}")
@@ -25,11 +25,13 @@ def save_raw_data(books_data, output_path):
         json.dump(books_data, f, indent=4)
     print(f"Datos crudos guardados en {output_path}")
 
-#uso valores de prueba para ver si funciona
-query = 'book'
-project_dir = os.path.dirname(os.path.abspath(__file__))
-output_path = os.path.join(project_dir, "raw_books.json")
 
-#extraigo los datos y guardo en un json
-books = extract_data(query=query)
-save_raw_data(books, output_path)
+if __name__ == "__main__":
+    #uso valores de prueba para ver si funciona
+    query = 'book'
+    project_dir = os.path.dirname(os.path.abspath(__file__))
+    output_path = os.path.join(project_dir, "raw_books.json")
+
+    #extraigo los datos y guardo en un json
+    books = extract_data(query=query)
+    save_raw_data(books, output_path)

@@ -7,6 +7,9 @@ import os
 
 #transformacion de los datos
 def transform_data(raw_path, transformed_path):
+    with open(raw_path, 'r') as f:
+        books_data = json.load(f)
+    print(f"Transformando {len(books_data)} libros...")
     try:
         #lee los datos del json con los datos en crudo
         with open(raw_path, 'r') as f:
@@ -34,10 +37,10 @@ def transform_data(raw_path, transformed_path):
                 "id": item.get("id"),
                 "title": item.get("volumeInfo", {}).get("title"),
                 "authors": item.get("volumeInfo", {}).get("authors"),
-                "publishedDate": item.get("volumeInfo", {}).get("publishedDate"),
+                "published_date": item.get("volumeInfo", {}).get("publishedDate"),
                 "popularity": item.get("volumeInfo", {}).get("averageRating"),
+                "popularity_category": popularidad_categoria,               
                 "description": item.get("volumeInfo", {}).get("description"),
-                "popularity_category": popularidad_categoria
             })
 
 
@@ -52,13 +55,13 @@ def transform_data(raw_path, transformed_path):
         print(f"Error al transformar los datos: {e}")
 
 
-#cargo la ruta actual del archivo
-project_dir = os.path.dirname(os.path.abspath(__file__))
 
-raw_path = os.path.join(project_dir, "raw_books.json")#ruta al json con los datos en crudo 
+if __name__ == "__main__":
+    #cargo la ruta actual del archivo
+    project_dir = os.path.dirname(os.path.abspath(__file__))
 
-transformed_path = os.path.join(project_dir, "transformed_books.json") #ruta al nuevo archivo transformado
+    raw_path = os.path.join(project_dir, "raw_books.json")#ruta al json con los datos en crudo 
 
+    transformed_path = os.path.join(project_dir, "transformed_books.json") #ruta al nuevo archivo transformado
 
-
-transform_data(raw_path, transformed_path)
+    transform_data(raw_path, transformed_path)

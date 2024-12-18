@@ -1,8 +1,396 @@
 [
     {
         "kind": "books#volume",
+        "id": "pBQEAAAAMBAJ",
+        "etag": "zncPK6cCfeA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/pBQEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "2008-11-29",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 60,
+            "printType": "MAGAZINE",
+            "averageRating": 4,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=pBQEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=pBQEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=pBQEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=pBQEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=pBQEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=pBQEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "RdMDAAAAMBAJ",
+        "etag": "QGq5MfxewPE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/RdMDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Mechanics",
+            "publishedDate": "2005-01",
+            "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 126,
+            "printType": "MAGAZINE",
+            "averageRating": 4.5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=RdMDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=RdMDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=RdMDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=2&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=RdMDAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Mechanics.html?hl=&id=RdMDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=RdMDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "GrIDAAAAMBAJ",
+        "etag": "gHe+jrGPUF8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/GrIDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Jet",
+            "publishedDate": "1975-03-06",
+            "description": "The weekly source of African American political and entertainment news.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 64,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=GrIDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=GrIDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=GrIDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=3&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=GrIDAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Jet.html?hl=&id=GrIDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=GrIDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The weekly source of African American political and entertainment news."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "Db4DAAAAMBAJ",
+        "etag": "nCxAhKxVLR8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Db4DAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Jet",
+            "publishedDate": "2003-08-11",
+            "description": "The weekly source of African American political and entertainment news.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 64,
+            "printType": "MAGAZINE",
+            "averageRating": 4,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Db4DAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Db4DAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=Db4DAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=4&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=Db4DAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Jet.html?hl=&id=Db4DAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Db4DAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The weekly source of African American political and entertainment news."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "N0EEAAAAMBAJ",
+        "etag": "son1hEDJ/ac",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/N0EEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "LIFE",
+            "publishedDate": "1936-11-23",
+            "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 96,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 3,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=N0EEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=N0EEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=N0EEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=5&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=N0EEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/LIFE.html?hl=&id=N0EEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=N0EEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "PtMDAAAAMBAJ",
+        "etag": "9ZMQiErlgvc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/PtMDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Ebony",
+            "publishedDate": "2008-10",
+            "description": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 192,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 3,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=PtMDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=PtMDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=PtMDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=6&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=PtMDAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Ebony.html?hl=&id=PtMDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=PtMDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "AXKlThqFFT0C",
+        "etag": "OcdSS7KgR9g",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/AXKlThqFFT0C",
+        "volumeInfo": {
+            "title": "Spy",
+            "publishedDate": "1994-02",
+            "description": "Smart. Funny. Fearless.\"It's pretty safe to say that Spy was the most influential magazine of the 1980s. It might have remade New York's cultural landscape; it definitely changed the whole tone of magazine journalism. It was cruel, brilliant, beautifully written and perfectly designed, and feared by all. There's no magazine I know of that's so continually referenced, held up as a benchmark, and whose demise is so lamented\" --Dave Eggers. \"It's a piece of garbage\" --Donald Trump.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 72,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=AXKlThqFFT0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=AXKlThqFFT0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=AXKlThqFFT0C&printsec=frontcover&dq=books&hl=&cd=7&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=AXKlThqFFT0C&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Spy.html?hl=&id=AXKlThqFFT0C"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=AXKlThqFFT0C&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Smart. Funny. Fearless.&quot;It&#39;s pretty safe to say that Spy was the most influential magazine of the 1980s. It might have remade New York&#39;s cultural landscape; it definitely changed the whole tone of magazine journalism."
+        }
+    },
+    {
+        "kind": "books#volume",
         "id": "vQHmAAAAMAAJ",
-        "etag": "mMijABeI/24",
+        "etag": "x1lm6q7W06w",
         "selfLink": "https://www.googleapis.com/books/v1/volumes/vQHmAAAAMAAJ",
         "volumeInfo": {
             "title": "El candidato de Dios",
@@ -37,8 +425,8 @@
                 "thumbnail": "http://books.google.com/books/content?id=vQHmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
             },
             "language": "es",
-            "previewLink": "http://books.google.com.ar/books?id=vQHmAAAAMAAJ&q=book&dq=book&hl=&cd=1&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=vQHmAAAAMAAJ&dq=book&hl=&source=gbs_api",
+            "previewLink": "http://books.google.com.ar/books?id=vQHmAAAAMAAJ&q=books&dq=books&hl=&cd=8&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=vQHmAAAAMAAJ&dq=books&hl=&source=gbs_api",
             "canonicalVolumeLink": "https://books.google.com/books/about/El_candidato_de_Dios.html?hl=&id=vQHmAAAAMAAJ"
         },
         "saleInfo": {
@@ -61,6 +449,1714 @@
             "webReaderLink": "http://play.google.com/books/reader?id=vQHmAAAAMAAJ&hl=&source=gbs_api",
             "accessViewStatus": "NONE",
             "quoteSharingAllowed": false
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "w_OhaFDePS4C",
+        "etag": "m3H9HyAKETY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/w_OhaFDePS4C",
+        "volumeInfo": {
+            "title": "PC Mag",
+            "publishedDate": "1982-02",
+            "description": "PCMag.com is a leading authority on technology, delivering Labs-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 456,
+            "printType": "MAGAZINE",
+            "averageRating": 4,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=w_OhaFDePS4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=w_OhaFDePS4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=w_OhaFDePS4C&printsec=frontcover&dq=books&hl=&cd=9&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=w_OhaFDePS4C&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/PC_Mag.html?hl=&id=w_OhaFDePS4C"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=w_OhaFDePS4C&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "PCMag.com is a leading authority on technology, delivering Labs-based, independent reviews of the latest products and services."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "4Pe6WBWdL5AC",
+        "etag": "IO9PJ2tBglg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/4Pe6WBWdL5AC",
+        "volumeInfo": {
+            "title": "Arcadia",
+            "publishedDate": "2010-09-08",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 36,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=4Pe6WBWdL5AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=4Pe6WBWdL5AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "es",
+            "previewLink": "http://books.google.com.ar/books?id=4Pe6WBWdL5AC&printsec=frontcover&dq=books&hl=&cd=10&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=4Pe6WBWdL5AC&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Arcadia.html?hl=&id=4Pe6WBWdL5AC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=4Pe6WBWdL5AC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "5joDAAAAMBAJ",
+        "etag": "gqt/Oapv8aE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/5joDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Jet",
+            "publishedDate": "2007-09-17",
+            "description": "The weekly source of African American political and entertainment news.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 64,
+            "printType": "MAGAZINE",
+            "averageRating": 3,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=5joDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=5joDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=5joDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=11&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=5joDAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Jet.html?hl=&id=5joDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=5joDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The weekly source of African American political and entertainment news."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "49gDAAAAMBAJ",
+        "etag": "7SwGh4zDYkw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/49gDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Mechanics",
+            "publishedDate": "1951-09",
+            "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 304,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=49gDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=49gDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=49gDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=12&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=49gDAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Mechanics.html?hl=&id=49gDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=49gDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "L2IEAAAAMBAJ",
+        "etag": "PxlzdgSdBto",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/L2IEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Out",
+            "publishedDate": "1999-01",
+            "description": "Out is a fashion, style, celebrity and opinion magazine for the modern gay man.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 112,
+            "printType": "MAGAZINE",
+            "averageRating": 1,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=L2IEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=L2IEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=L2IEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=13&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=L2IEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Out.html?hl=&id=L2IEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=L2IEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Out is a fashion, style, celebrity and opinion magazine for the modern gay man."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "kic4tNzhZF8C",
+        "etag": "l9mu7AcOg/Q",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/kic4tNzhZF8C",
+        "volumeInfo": {
+            "title": "SPIN",
+            "publishedDate": "2008-05",
+            "description": "From the concert stage to the dressing room, from the recording studio to the digital realm, SPIN surveys the modern musical landscape and the culture around it with authoritative reporting, provocative interviews, and a discerning critical ear. With dynamic photography, bold graphic design, and informed irreverence, the pages of SPIN pulsate with the energy of today's most innovative sounds. Whether covering what's new or what's next, SPIN is your monthly VIP pass to all that rocks.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 128,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=kic4tNzhZF8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=kic4tNzhZF8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=kic4tNzhZF8C&printsec=frontcover&dq=books&hl=&cd=14&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=kic4tNzhZF8C&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/SPIN.html?hl=&id=kic4tNzhZF8C"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=kic4tNzhZF8C&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "From the concert stage to the dressing room, from the recording studio to the digital realm, SPIN surveys the modern musical landscape and the culture around it with authoritative reporting, provocative interviews, and a discerning critical ..."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "OugCAAAAMBAJ",
+        "etag": "zenlLQMduq0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/OugCAAAAMBAJ",
+        "volumeInfo": {
+            "title": "New York Magazine",
+            "publishedDate": "1997-06-02",
+            "description": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country. With award-winning writing and photography covering everything from politics and food to theater and fashion, the magazine's consistent mission has been to reflect back to its audience the energy and excitement of the city itself, while celebrating New York as both a place and an idea.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 142,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=OugCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=OugCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=OugCAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=15&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=OugCAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=OugCAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=OugCAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "WikEAAAAMBAJ",
+        "etag": "6YYG2o8f5hA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/WikEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "1965-11-13",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 68,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=WikEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=WikEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=WikEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=16&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=WikEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=WikEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=WikEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "qj8EAAAAMBAJ",
+        "etag": "9a7paed8VPY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/qj8EAAAAMBAJ",
+        "volumeInfo": {
+            "title": "LIFE",
+            "publishedDate": "1940-01-29",
+            "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 80,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=qj8EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=qj8EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=qj8EAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=17&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=qj8EAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/LIFE.html?hl=&id=qj8EAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=qj8EAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "D0UEAAAAMBAJ",
+        "etag": "PKlD2a0W6Tg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/D0UEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "1964-07-25",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 46,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=D0UEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=D0UEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=D0UEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=18&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=D0UEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=D0UEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=D0UEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "8AwEAAAAMBAJ",
+        "etag": "Ejnb/wW8TLc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/8AwEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "2002-08-31",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 104,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=8AwEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=8AwEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=8AwEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=19&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=8AwEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=8AwEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=8AwEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "VT7C_Y4Wm54C",
+        "etag": "ZGnqmakldpQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/VT7C_Y4Wm54C",
+        "volumeInfo": {
+            "title": "Flying Magazine",
+            "publishedDate": "1993-12",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 106,
+            "printType": "MAGAZINE",
+            "averageRating": 3,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=VT7C_Y4Wm54C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=VT7C_Y4Wm54C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=VT7C_Y4Wm54C&printsec=frontcover&dq=books&hl=&cd=20&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=VT7C_Y4Wm54C&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Flying_Magazine.html?hl=&id=VT7C_Y4Wm54C"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=VT7C_Y4Wm54C&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "tQcEAAAAMBAJ",
+        "etag": "B+JWOYkvwfo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/tQcEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "1974-10-12",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 72,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=tQcEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=tQcEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=tQcEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=21&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=tQcEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=tQcEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=tQcEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "ib0DAAAAMBAJ",
+        "etag": "DNdCArQTFmU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ib0DAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Jet",
+            "publishedDate": "1989-02-20",
+            "description": "The weekly source of African American political and entertainment news.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 64,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ib0DAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ib0DAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=ib0DAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=22&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=ib0DAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Jet.html?hl=&id=ib0DAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=ib0DAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "The weekly source of African American political and entertainment news."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "Rg0EAAAAMBAJ",
+        "etag": "b/Mzj+qNeP0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Rg0EAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "2002-11-30",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 88,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Rg0EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Rg0EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=Rg0EAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=23&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=Rg0EAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=Rg0EAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Rg0EAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "aAwEAAAAMBAJ",
+        "etag": "KXigzJfPhTM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/aAwEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "1943-07-31",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 120,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=aAwEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=aAwEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=aAwEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=24&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=aAwEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=aAwEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=aAwEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "_d8DAAAAMBAJ",
+        "etag": "T7Zx/cW8IrY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/_d8DAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Backpacker",
+            "publishedDate": "1973",
+            "description": "Backpacker brings the outdoors straight to the reader's doorstep, inspiring and enabling them to go more places and enjoy nature more often. The authority on active adventure, Backpacker is the world's first GPS-enabled magazine, and the only magazine whose editors personally test the hiking trails, camping gear, and survival tips they publish. Backpacker's Editors' Choice Awards, an industry honor recognizing design, feature and product innovation, has become the gold standard against which all other outdoor-industry awards are measured.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 104,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=_d8DAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=_d8DAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=_d8DAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=25&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=_d8DAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Backpacker.html?hl=&id=_d8DAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=_d8DAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Backpacker brings the outdoors straight to the reader&#39;s doorstep, inspiring and enabling them to go more places and enjoy nature more often."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "a08EAAAAMBAJ",
+        "etag": "NvrAHqpYaz4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/a08EAAAAMBAJ",
+        "volumeInfo": {
+            "title": "LIFE",
+            "publishedDate": "1969-05-30",
+            "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 84,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=a08EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=a08EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=a08EAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=26&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=a08EAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/LIFE.html?hl=&id=a08EAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=a08EAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "ehMEAAAAMBAJ",
+        "etag": "59TYuJHADUg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ehMEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "2004-11-20",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 92,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ehMEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ehMEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=ehMEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=27&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=ehMEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=ehMEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=ehMEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "jw8EAAAAMBAJ",
+        "etag": "EWmKWlfb2L8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/jw8EAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "1993-02-06",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 80,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.2.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=jw8EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=jw8EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=jw8EAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=28&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=jw8EAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=jw8EAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=jw8EAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "bgIAAAAAMBAJ",
+        "etag": "HH9R5Tyhjhk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bgIAAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Maximum PC",
+            "publishedDate": "2008-02",
+            "description": "Maximum PC is the magazine that every computer fanatic, PC gamer or content creator must read. Each and every issue is packed with punishing product reviews, insightful and innovative how-to stories and the illuminating technical articles that enthusiasts crave.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 96,
+            "printType": "MAGAZINE",
+            "averageRating": 4,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=bgIAAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=bgIAAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=bgIAAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=29&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=bgIAAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Maximum_PC.html?hl=&id=bgIAAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=bgIAAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Maximum PC is the magazine that every computer fanatic, PC gamer or content creator must read."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "MC0DAAAAMBAJ",
+        "etag": "tJBzTt1uwew",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/MC0DAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1950-05",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 290,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=MC0DAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=MC0DAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=MC0DAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=30&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=MC0DAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=MC0DAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=MC0DAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "KzqL-8JnP0IC",
+        "etag": "f4p5CWCR8u0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/KzqL-8JnP0IC",
+        "volumeInfo": {
+            "title": "Field & Stream",
+            "publishedDate": "1971-05",
+            "description": "FIELD & STREAM, America\u2019s largest outdoor sports magazine, celebrates the outdoor experience with great stories, compelling photography, and sound advice while honoring the traditions hunters and fishermen have passed down for generations.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 206,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.2.4.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=KzqL-8JnP0IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=KzqL-8JnP0IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=KzqL-8JnP0IC&printsec=frontcover&dq=books&hl=&cd=31&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=KzqL-8JnP0IC&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Field_Stream.html?hl=&id=KzqL-8JnP0IC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=KzqL-8JnP0IC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "FIELD &amp; STREAM, America\u2019s largest outdoor sports magazine, celebrates the outdoor experience with great stories, compelling photography, and sound advice while honoring the traditions hunters and fishermen have passed down for generations ..."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "cgsEAAAAMBAJ",
+        "etag": "PkcLEKvJFbk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/cgsEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "1963-01-12",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 42,
+            "printType": "MAGAZINE",
+            "averageRating": 2,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=cgsEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=cgsEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=cgsEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=32&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=cgsEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=cgsEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=cgsEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "_0sEAAAAMBAJ",
+        "etag": "LB3VlTqGHGw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/_0sEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "LIFE",
+            "publishedDate": "1950-11-27",
+            "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 148,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=_0sEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=_0sEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=_0sEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=33&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=_0sEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/LIFE.html?hl=&id=_0sEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=_0sEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "9X6oBEkKEUwC",
+        "etag": "jWLCuesZx0w",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/9X6oBEkKEUwC",
+        "volumeInfo": {
+            "title": "Skiing",
+            "publishedDate": "1998-02",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 122,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=9X6oBEkKEUwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=9X6oBEkKEUwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=9X6oBEkKEUwC&printsec=frontcover&dq=books&hl=&cd=34&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=9X6oBEkKEUwC&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Skiing.html?hl=&id=9X6oBEkKEUwC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=9X6oBEkKEUwC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "oeEDAAAAMBAJ",
+        "etag": "mHgr8YFw+QQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/oeEDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Mechanics",
+            "publishedDate": "1957-11",
+            "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 300,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=oeEDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=oeEDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=oeEDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=35&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=oeEDAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Mechanics.html?hl=&id=oeEDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=oeEDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "HhIEAAAAMBAJ",
+        "etag": "XciGaWBucN8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/HhIEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "1992-08-15",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 92,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=HhIEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=HhIEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=HhIEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=36&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=HhIEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=HhIEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=HhIEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "1tcCAAAAMBAJ",
+        "etag": "5t//c+i3Cx4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/1tcCAAAAMBAJ",
+        "volumeInfo": {
+            "title": "New York Magazine",
+            "publishedDate": "1978-12-04",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 176,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=1tcCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=1tcCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=1tcCAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=37&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=1tcCAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=1tcCAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=1tcCAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "wA8EAAAAMBAJ",
+        "etag": "WNomfg7VS/E",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wA8EAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Billboard",
+            "publishedDate": "2002-01-26",
+            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 76,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=wA8EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=wA8EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=wA8EAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=38&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=wA8EAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=wA8EAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=wA8EAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "MCYDAAAAMBAJ",
+        "etag": "Jb3v4vX6D+w",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/MCYDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1965-01",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 222,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=MCYDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=MCYDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=MCYDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=39&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=MCYDAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=MCYDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=MCYDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "KzAEAAAAMBAJ",
+        "etag": "HDEyjQwA1xE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/KzAEAAAAMBAJ",
+        "volumeInfo": {
+            "title": "InfoWorld",
+            "publishedDate": "1982-07-19",
+            "description": "InfoWorld is targeted to Senior IT professionals. Content is segmented into Channels and Topic Centers. InfoWorld also celebrates people, companies, and projects.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 72,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=KzAEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=KzAEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=KzAEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=40&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=KzAEAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/InfoWorld.html?hl=&id=KzAEAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=KzAEAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "InfoWorld is targeted to Senior IT professionals. Content is segmented into Channels and Topic Centers. InfoWorld also celebrates people, companies, and projects."
         }
     }
 ]

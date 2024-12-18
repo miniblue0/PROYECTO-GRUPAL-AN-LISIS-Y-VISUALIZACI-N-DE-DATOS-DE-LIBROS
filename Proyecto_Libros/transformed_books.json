@@ -1,0 +1,364 @@
+[
+    {
+        "id": "pBQEAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "2008-11-29",
+        "popularity": 4,
+        "popularity_category": "MEDIA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "RdMDAAAAMBAJ",
+        "title": "Popular Mechanics",
+        "authors": null,
+        "published_date": "2005-01",
+        "popularity": 4.5,
+        "popularity_category": "MEDIA",
+        "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
+    },
+    {
+        "id": "GrIDAAAAMBAJ",
+        "title": "Jet",
+        "authors": null,
+        "published_date": "1975-03-06",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "The weekly source of African American political and entertainment news."
+    },
+    {
+        "id": "Db4DAAAAMBAJ",
+        "title": "Jet",
+        "authors": null,
+        "published_date": "2003-08-11",
+        "popularity": 4,
+        "popularity_category": "BAJA",
+        "description": "The weekly source of African American political and entertainment news."
+    },
+    {
+        "id": "N0EEAAAAMBAJ",
+        "title": "LIFE",
+        "authors": null,
+        "published_date": "1936-11-23",
+        "popularity": 5,
+        "popularity_category": "MEDIA",
+        "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use."
+    },
+    {
+        "id": "PtMDAAAAMBAJ",
+        "title": "Ebony",
+        "authors": null,
+        "published_date": "2008-10",
+        "popularity": 5,
+        "popularity_category": "MEDIA",
+        "description": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine."
+    },
+    {
+        "id": "AXKlThqFFT0C",
+        "title": "Spy",
+        "authors": null,
+        "published_date": "1994-02",
+        "popularity": 5,
+        "popularity_category": "MEDIA",
+        "description": "Smart. Funny. Fearless.\"It's pretty safe to say that Spy was the most influential magazine of the 1980s. It might have remade New York's cultural landscape; it definitely changed the whole tone of magazine journalism. It was cruel, brilliant, beautifully written and perfectly designed, and feared by all. There's no magazine I know of that's so continually referenced, held up as a benchmark, and whose demise is so lamented\" --Dave Eggers. \"It's a piece of garbage\" --Donald Trump."
+    },
+    {
+        "id": "vQHmAAAAMAAJ",
+        "title": "El candidato de Dios",
+        "authors": [
+            "Luis G. Basurto"
+        ],
+        "published_date": "1986",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": null
+    },
+    {
+        "id": "w_OhaFDePS4C",
+        "title": "PC Mag",
+        "authors": null,
+        "published_date": "1982-02",
+        "popularity": 4,
+        "popularity_category": "BAJA",
+        "description": "PCMag.com is a leading authority on technology, delivering Labs-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology."
+    },
+    {
+        "id": "4Pe6WBWdL5AC",
+        "title": "Arcadia",
+        "authors": null,
+        "published_date": "2010-09-08",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": null
+    },
+    {
+        "id": "5joDAAAAMBAJ",
+        "title": "Jet",
+        "authors": null,
+        "published_date": "2007-09-17",
+        "popularity": 3,
+        "popularity_category": "MEDIA",
+        "description": "The weekly source of African American political and entertainment news."
+    },
+    {
+        "id": "49gDAAAAMBAJ",
+        "title": "Popular Mechanics",
+        "authors": null,
+        "published_date": "1951-09",
+        "popularity": 5,
+        "popularity_category": "BAJA",
+        "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
+    },
+    {
+        "id": "L2IEAAAAMBAJ",
+        "title": "Out",
+        "authors": null,
+        "published_date": "1999-01",
+        "popularity": 1,
+        "popularity_category": "BAJA",
+        "description": "Out is a fashion, style, celebrity and opinion magazine for the modern gay man."
+    },
+    {
+        "id": "kic4tNzhZF8C",
+        "title": "SPIN",
+        "authors": null,
+        "published_date": "2008-05",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "From the concert stage to the dressing room, from the recording studio to the digital realm, SPIN surveys the modern musical landscape and the culture around it with authoritative reporting, provocative interviews, and a discerning critical ear. With dynamic photography, bold graphic design, and informed irreverence, the pages of SPIN pulsate with the energy of today's most innovative sounds. Whether covering what's new or what's next, SPIN is your monthly VIP pass to all that rocks."
+    },
+    {
+        "id": "OugCAAAAMBAJ",
+        "title": "New York Magazine",
+        "authors": null,
+        "published_date": "1997-06-02",
+        "popularity": 5,
+        "popularity_category": "BAJA",
+        "description": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country. With award-winning writing and photography covering everything from politics and food to theater and fashion, the magazine's consistent mission has been to reflect back to its audience the energy and excitement of the city itself, while celebrating New York as both a place and an idea."
+    },
+    {
+        "id": "WikEAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "1965-11-13",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "qj8EAAAAMBAJ",
+        "title": "LIFE",
+        "authors": null,
+        "published_date": "1940-01-29",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use."
+    },
+    {
+        "id": "D0UEAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "1964-07-25",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "8AwEAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "2002-08-31",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "VT7C_Y4Wm54C",
+        "title": "Flying Magazine",
+        "authors": null,
+        "published_date": "1993-12",
+        "popularity": 3,
+        "popularity_category": "MEDIA",
+        "description": null
+    },
+    {
+        "id": "tQcEAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "1974-10-12",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "ib0DAAAAMBAJ",
+        "title": "Jet",
+        "authors": null,
+        "published_date": "1989-02-20",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "The weekly source of African American political and entertainment news."
+    },
+    {
+        "id": "Rg0EAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "2002-11-30",
+        "popularity": 5,
+        "popularity_category": "BAJA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "aAwEAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "1943-07-31",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "_d8DAAAAMBAJ",
+        "title": "Backpacker",
+        "authors": null,
+        "published_date": "1973",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "Backpacker brings the outdoors straight to the reader's doorstep, inspiring and enabling them to go more places and enjoy nature more often. The authority on active adventure, Backpacker is the world's first GPS-enabled magazine, and the only magazine whose editors personally test the hiking trails, camping gear, and survival tips they publish. Backpacker's Editors' Choice Awards, an industry honor recognizing design, feature and product innovation, has become the gold standard against which all other outdoor-industry awards are measured."
+    },
+    {
+        "id": "a08EAAAAMBAJ",
+        "title": "LIFE",
+        "authors": null,
+        "published_date": "1969-05-30",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use."
+    },
+    {
+        "id": "ehMEAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "2004-11-20",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "jw8EAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "1993-02-06",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "bgIAAAAAMBAJ",
+        "title": "Maximum PC",
+        "authors": null,
+        "published_date": "2008-02",
+        "popularity": 4,
+        "popularity_category": "BAJA",
+        "description": "Maximum PC is the magazine that every computer fanatic, PC gamer or content creator must read. Each and every issue is packed with punishing product reviews, insightful and innovative how-to stories and the illuminating technical articles that enthusiasts crave."
+    },
+    {
+        "id": "MC0DAAAAMBAJ",
+        "title": "Popular Science",
+        "authors": null,
+        "published_date": "1950-05",
+        "popularity": 5,
+        "popularity_category": "BAJA",
+        "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better."
+    },
+    {
+        "id": "KzqL-8JnP0IC",
+        "title": "Field & Stream",
+        "authors": null,
+        "published_date": "1971-05",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "FIELD & STREAM, America\u2019s largest outdoor sports magazine, celebrates the outdoor experience with great stories, compelling photography, and sound advice while honoring the traditions hunters and fishermen have passed down for generations."
+    },
+    {
+        "id": "cgsEAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "1963-01-12",
+        "popularity": 2,
+        "popularity_category": "BAJA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "_0sEAAAAMBAJ",
+        "title": "LIFE",
+        "authors": null,
+        "published_date": "1950-11-27",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use."
+    },
+    {
+        "id": "9X6oBEkKEUwC",
+        "title": "Skiing",
+        "authors": null,
+        "published_date": "1998-02",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": null
+    },
+    {
+        "id": "oeEDAAAAMBAJ",
+        "title": "Popular Mechanics",
+        "authors": null,
+        "published_date": "1957-11",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
+    },
+    {
+        "id": "HhIEAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "1992-08-15",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "1tcCAAAAMBAJ",
+        "title": "New York Magazine",
+        "authors": null,
+        "published_date": "1978-12-04",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": null
+    },
+    {
+        "id": "wA8EAAAAMBAJ",
+        "title": "Billboard",
+        "authors": null,
+        "published_date": "2002-01-26",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends."
+    },
+    {
+        "id": "MCYDAAAAMBAJ",
+        "title": "Popular Science",
+        "authors": null,
+        "published_date": "1965-01",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better."
+    },
+    {
+        "id": "KzAEAAAAMBAJ",
+        "title": "InfoWorld",
+        "authors": null,
+        "published_date": "1982-07-19",
+        "popularity": null,
+        "popularity_category": "BAJA",
+        "description": "InfoWorld is targeted to Senior IT professionals. Content is segmented into Channels and Topic Centers. InfoWorld also celebrates people, companies, and projects."
+    }
+]

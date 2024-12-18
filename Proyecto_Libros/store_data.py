@@ -1,70 +1,87 @@
-#en este archivo solo debe ir el proceso para almacenar los datos transformados en sql server.
-
-#la tabla puede tener por ejemplo: id, title, authors, publishedDate, popularity , description, popularity_category
-
 import pyodbc
 import os
-from config import SQL_SERVER_CONNECTION_STRING #importo desde el archivo config las credenciales
+from config import SQL_SERVER_CONNECTION
 import json
+from datetime import datetime
 
-def load_to_sql_server(data, table_name, connection_string): #simplifique los parametros usando directamente la url de sql
-
+def convert_to_date(published_date):
+    if not published_date:
+        return None  # Si la fecha está vacía o es None, retornamos None
+    
+    #print(f"Intentando convertir la fecha: {published_date}")
     try:
-        conn = pyodbc.connect(connection_string)
+        # Intenta convertir en formato 'YYYY-MM-DD'
+        return datetime.strptime(published_date, '%Y-%m-%d').date()
+    except ValueError:
+        # Si no es 'YYYY-MM-DD', tratamos de parsear como 'YYYY-MM' y le añadimos '-01'
+        try:
+            return datetime.strptime(published_date + '-01', '%Y-%m-%d').date()
+        except ValueError:
+            # Si no se puede parsear, retornamos None
+            print(f"Error al convertir la fecha: {published_date}")
+            return None
+
+def load_to_sql_server(data, table_name, connection): 
+    print(f"Preparando para cargar {len(data)} libros a la base de datos...")
+    
+    try:
+        conn = pyodbc.connect(connection)
         cursor = conn.cursor()
 
         for row in data:
-            #reorganice el merge para comparar los datos
+            published_date = convert_to_date(row['published_date']) if row['published_date'] else None
+            if not published_date:
+                print(f"Fecha invalida en el libro {row['title']}. Se omite el registro.")
+                continue
+
+            # Imprime la fecha convertida antes de la inserción
+            #print(f"Fecha convertida para '{row['title']}': {published_date}")
+
+            # Si la fecha es válida, procedemos con el UPSERT
             UPSERT = f"""
             MERGE {table_name} AS target
-            USING (SELECT ? AS id, ? AS title, ? AS authors, ? AS publishedDate, ? AS popularity, 
-                          ? AS description, ? AS popularity_category) AS source
-            ON target.id = source.id
+            USING (SELECT ? AS title, ? AS authors, ? AS published_date, ? AS popularity, 
+                          ? AS popularity_category, ? AS description) AS source
+            ON target.title = source.title
             WHEN MATCHED THEN
                 UPDATE SET 
                     title = source.title,
                     authors = source.authors,
-                    publishedDate = source.publishedDate,
+                    published_date = source.published_date,
                     popularity = source.popularity,
-                    description = source.description,
-                    popularity_category = source.popularity_category
+                    popularity_category = source.popularity_category,
+                    description = source.description
             WHEN NOT MATCHED THEN
-                INSERT (id, title, authors, publishedDate, popularity, description, popularity_category)
-                VALUES (source.id, source.title, source.authors, source.publishedDate, 
-                        source.popularity, source.description, source.popularity_category);
+                INSERT (title, authors, published_date, popularity, popularity_category, description)
+                VALUES (source.title, source.authors, source.published_date, 
+                        source.popularity, source.popularity_category, source.description);
             """
-            #ejecuta la consulta anterior con los valores de cada fila
+
             cursor.execute(
                 UPSERT,
-                row['id'],
                 row['title'],
                 ', '.join(row['authors']) if row['authors'] else None,
-                row['publishedDate'],
+                published_date,
                 row['popularity'],
-                row['description'],
-                row['popularity_category']
+                row['popularity_category'],
+                row['description']
             )
 
-        #commit para confirmar los cambios
         conn.commit()
-        print(f"Datos cargados exitosamente en la tabla '{table_name}'.")
+        print(f"Datos cargados correctamente en la tabla '{table_name}'.")
 
     except Exception as e:
         print(f"Error al cargar datos en SQL Server: {e}")
     finally:
-        conn.close()
+        if 'conn' in locals():
+            conn.close()
 
+if __name__ == "__main__":
+    project_dir = os.path.dirname(os.path.abspath(__file__))
+    transformed_file = os.path.join(project_dir, "transformed_books.json")
 
-#ruta al json con los datos transformados (para no tener que usar una tabla temporal como teniamos anteriormente)
-project_dir = os.path.dirname(os.path.abspath(__file__))
-transformed_file = os.path.join(project_dir, "transformed_books.json")
-
-#leo los datos del archivo
-with open(transformed_file, "r") as f:
+    with open(transformed_file, "r") as f:
         transformed_data = json.load(f)
 
-#nombre de la tabla
-table_name = "books_popularity"
-
-#ejecuto la carga a sql
-load_to_sql_server(transformed_data, table_name, SQL_SERVER_CONNECTION_STRING)
+    table_name = "books_popularity"
+    load_to_sql_server(transformed_data, table_name, SQL_SERVER_CONNECTION)

@@ -18,12 +18,14 @@ def upload_to_s3(local_file, bucket_name, remote_path):
         print(f"Error al subir archivo a S3: {e}")
 
 
-#ruta al archivo json
-project_dir = os.path.dirname(os.path.abspath(__file__))
-local_file = os.path.join(project_dir, "raw_books.json")
-    
-#ruta dentro del bucket S3
-remote_path = "raw_data/raw_books.json"
 
-# Subir el archivo al bucket de S3
-upload_to_s3(local_file, S3_BUCKET_NAME, remote_path)
+if __name__ == "__main__":
+    #ruta al archivo json
+    project_dir = os.path.dirname(os.path.abspath(__file__))
+    local_file = os.path.join(project_dir, "raw_books.json")
+        
+    #ruta dentro del bucket S3
+    remote_path = "raw_data/raw_books.json"
+
+    # Subir el archivo al bucket de S3
+    upload_to_s3(local_file, S3_BUCKET_NAME, remote_path)
