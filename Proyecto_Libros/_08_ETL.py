@@ -52,7 +52,7 @@ def proceso_etl(query, max_results, s3_remote_path):
 
 
 if __name__ == "__main__":
-    query = "books"
+    query = "science"
     max_results = 80
     s3_remote_path = "raw_data/raw_books.json" #es la ruta que hay dentro del bucket
 

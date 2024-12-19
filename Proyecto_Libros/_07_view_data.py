@@ -38,6 +38,7 @@ def view_data(table, connection):
                 return 0  
 
         df['popularity'] = df['popularity'].apply(convert_popularity)
+        df = df[df['popularity'] != 0]
         if df.empty:
             print("el dataframe esta vacio")
             return
@@ -45,6 +46,7 @@ def view_data(table, connection):
         if df['popularity'].sum() == 0:
             print("no hay datos conocidos para graficar")
             return
+          
 
 
         #df = df.nlargest(20, 'popularity')  

@@ -1,590 +1,36 @@
 [
     {
         "kind": "books#volume",
-        "id": "pBQEAAAAMBAJ",
-        "etag": "n/hEQavo7S8",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/pBQEAAAAMBAJ",
+        "id": "vSwDAAAAMBAJ",
+        "etag": "vnKfYq0Hk10",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vSwDAAAAMBAJ",
         "volumeInfo": {
-            "title": "Billboard",
-            "publishedDate": "2008-11-29",
-            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "title": "Popular Science",
+            "publishedDate": "1950-01",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
             "readingModes": {
                 "text": false,
                 "image": true
             },
-            "pageCount": 60,
-            "printType": "MAGAZINE",
-            "averageRating": 4,
-            "ratingsCount": 2,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.1.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=pBQEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=pBQEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=pBQEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=1&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=pBQEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=pBQEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=pBQEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "RdMDAAAAMBAJ",
-        "etag": "fomWSrSixtg",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/RdMDAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Popular Mechanics",
-            "publishedDate": "2005-01",
-            "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 126,
-            "printType": "MAGAZINE",
-            "averageRating": 4.5,
-            "ratingsCount": 2,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.2.0.preview.1",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=RdMDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=RdMDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=RdMDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=2&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=RdMDAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Mechanics.html?hl=&id=RdMDAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=RdMDAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "GrIDAAAAMBAJ",
-        "etag": "If5hAQKSk3k",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/GrIDAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Jet",
-            "publishedDate": "1975-03-06",
-            "description": "The weekly source of African American political and entertainment news.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 64,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.2.0.preview.1",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=GrIDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=GrIDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=GrIDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=3&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=GrIDAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Jet.html?hl=&id=GrIDAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=GrIDAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "The weekly source of African American political and entertainment news."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "Db4DAAAAMBAJ",
-        "etag": "VNG7/yvrb+o",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/Db4DAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Jet",
-            "publishedDate": "2003-08-11",
-            "description": "The weekly source of African American political and entertainment news.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 64,
-            "printType": "MAGAZINE",
-            "averageRating": 4,
-            "ratingsCount": 1,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.2.0.preview.1",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=Db4DAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=Db4DAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=Db4DAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=4&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=Db4DAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Jet.html?hl=&id=Db4DAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=Db4DAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "The weekly source of African American political and entertainment news."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "N0EEAAAAMBAJ",
-        "etag": "wmMjZFvTBzE",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/N0EEAAAAMBAJ",
-        "volumeInfo": {
-            "title": "LIFE",
-            "publishedDate": "1936-11-23",
-            "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 96,
-            "printType": "MAGAZINE",
-            "averageRating": 5,
-            "ratingsCount": 3,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=N0EEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=N0EEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=N0EEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=5&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=N0EEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/LIFE.html?hl=&id=N0EEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=N0EEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "PtMDAAAAMBAJ",
-        "etag": "GVgYhxthgOo",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/PtMDAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Ebony",
-            "publishedDate": "2008-10",
-            "description": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 192,
-            "printType": "MAGAZINE",
-            "averageRating": 5,
-            "ratingsCount": 3,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=PtMDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=PtMDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=PtMDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=6&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=PtMDAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Ebony.html?hl=&id=PtMDAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=PtMDAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "w_OhaFDePS4C",
-        "etag": "gtdqsJJ78HY",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/w_OhaFDePS4C",
-        "volumeInfo": {
-            "title": "PC Mag",
-            "publishedDate": "1982-02",
-            "description": "PCMag.com is a leading authority on technology, delivering Labs-based, independent reviews of the latest products and services. Our expert industry analysis and practical solutions help you make better buying decisions and get more from technology.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 456,
-            "printType": "MAGAZINE",
-            "averageRating": 4,
-            "ratingsCount": 1,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=w_OhaFDePS4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=w_OhaFDePS4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=w_OhaFDePS4C&printsec=frontcover&dq=books&hl=&cd=7&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=w_OhaFDePS4C&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/PC_Mag.html?hl=&id=w_OhaFDePS4C"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=w_OhaFDePS4C&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "PCMag.com is a leading authority on technology, delivering Labs-based, independent reviews of the latest products and services."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "AXKlThqFFT0C",
-        "etag": "n6XlpMIfs04",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/AXKlThqFFT0C",
-        "volumeInfo": {
-            "title": "Spy",
-            "publishedDate": "1994-02",
-            "description": "Smart. Funny. Fearless.\"It's pretty safe to say that Spy was the most influential magazine of the 1980s. It might have remade New York's cultural landscape; it definitely changed the whole tone of magazine journalism. It was cruel, brilliant, beautifully written and perfectly designed, and feared by all. There's no magazine I know of that's so continually referenced, held up as a benchmark, and whose demise is so lamented\" --Dave Eggers. \"It's a piece of garbage\" --Donald Trump.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 72,
+            "pageCount": 282,
             "printType": "MAGAZINE",
             "averageRating": 5,
             "ratingsCount": 2,
             "maturityRating": "NOT_MATURE",
             "allowAnonLogging": false,
-            "contentVersion": "preview-1.0.0",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=AXKlThqFFT0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=AXKlThqFFT0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=AXKlThqFFT0C&printsec=frontcover&dq=books&hl=&cd=8&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=AXKlThqFFT0C&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Spy.html?hl=&id=AXKlThqFFT0C"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=AXKlThqFFT0C&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "Smart. Funny. Fearless.&quot;It&#39;s pretty safe to say that Spy was the most influential magazine of the 1980s. It might have remade New York&#39;s cultural landscape; it definitely changed the whole tone of magazine journalism."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "vQHmAAAAMAAJ",
-        "etag": "No3l/2mXGi8",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/vQHmAAAAMAAJ",
-        "volumeInfo": {
-            "title": "El candidato de Dios",
-            "authors": [
-                "Luis G. Basurto"
-            ],
-            "publishedDate": "1986",
-            "industryIdentifiers": [
-                {
-                    "type": "OTHER",
-                    "identifier": "UTEXAS:059173026932267"
-                }
-            ],
-            "readingModes": {
-                "text": false,
-                "image": false
-            },
-            "pageCount": 92,
-            "printType": "BOOK",
-            "categories": [
-                "Music"
-            ],
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.6.2.0.preview.0",
+            "contentVersion": "0.0.1.0.preview.1",
             "panelizationSummary": {
                 "containsEpubBubbles": false,
                 "containsImageBubbles": false
             },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=vQHmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=vQHmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-            },
-            "language": "es",
-            "previewLink": "http://books.google.com.ar/books?id=vQHmAAAAMAAJ&q=books&dq=books&hl=&cd=9&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=vQHmAAAAMAAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/El_candidato_de_Dios.html?hl=&id=vQHmAAAAMAAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "NO_PAGES",
-            "embeddable": false,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=vQHmAAAAMAAJ&hl=&source=gbs_api",
-            "accessViewStatus": "NONE",
-            "quoteSharingAllowed": false
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "4Pe6WBWdL5AC",
-        "etag": "wxMZu+5GA0M",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/4Pe6WBWdL5AC",
-        "volumeInfo": {
-            "title": "Arcadia",
-            "publishedDate": "2010-09-08",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 36,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=4Pe6WBWdL5AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=4Pe6WBWdL5AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "es",
-            "previewLink": "http://books.google.com.ar/books?id=4Pe6WBWdL5AC&printsec=frontcover&dq=books&hl=&cd=10&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=4Pe6WBWdL5AC&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Arcadia.html?hl=&id=4Pe6WBWdL5AC"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=4Pe6WBWdL5AC&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "5joDAAAAMBAJ",
-        "etag": "sRa/N77GxBQ",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/5joDAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Jet",
-            "publishedDate": "2007-09-17",
-            "description": "The weekly source of African American political and entertainment news.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 64,
-            "printType": "MAGAZINE",
-            "averageRating": 3,
-            "ratingsCount": 2,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=5joDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=5joDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=vSwDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=vSwDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=5joDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=11&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=5joDAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Jet.html?hl=&id=5joDAAAAMBAJ"
+            "previewLink": "http://books.google.com.ar/books?id=vSwDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=vSwDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=vSwDAAAAMBAJ"
         },
         "saleInfo": {
             "country": "AR",
@@ -603,872 +49,18 @@
             "pdf": {
                 "isAvailable": false
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=5joDAAAAMBAJ&hl=&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=vSwDAAAAMBAJ&hl=&source=gbs_api",
             "accessViewStatus": "SAMPLE",
             "quoteSharingAllowed": false
         },
         "searchInfo": {
-            "textSnippet": "The weekly source of African American political and entertainment news."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "49gDAAAAMBAJ",
-        "etag": "HIoHxZlexv4",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/49gDAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Popular Mechanics",
-            "publishedDate": "1951-09",
-            "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 304,
-            "printType": "MAGAZINE",
-            "averageRating": 5,
-            "ratingsCount": 1,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=49gDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=49gDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=49gDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=12&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=49gDAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Mechanics.html?hl=&id=49gDAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=49gDAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "L2IEAAAAMBAJ",
-        "etag": "SBxNmNdbF/Y",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/L2IEAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Out",
-            "publishedDate": "1999-01",
-            "description": "Out is a fashion, style, celebrity and opinion magazine for the modern gay man.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 112,
-            "printType": "MAGAZINE",
-            "averageRating": 1,
-            "ratingsCount": 1,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=L2IEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=L2IEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=L2IEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=13&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=L2IEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Out.html?hl=&id=L2IEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=L2IEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "Out is a fashion, style, celebrity and opinion magazine for the modern gay man."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "kic4tNzhZF8C",
-        "etag": "kalQlzp2qho",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/kic4tNzhZF8C",
-        "volumeInfo": {
-            "title": "SPIN",
-            "publishedDate": "2008-05",
-            "description": "From the concert stage to the dressing room, from the recording studio to the digital realm, SPIN surveys the modern musical landscape and the culture around it with authoritative reporting, provocative interviews, and a discerning critical ear. With dynamic photography, bold graphic design, and informed irreverence, the pages of SPIN pulsate with the energy of today's most innovative sounds. Whether covering what's new or what's next, SPIN is your monthly VIP pass to all that rocks.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 128,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=kic4tNzhZF8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=kic4tNzhZF8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=kic4tNzhZF8C&printsec=frontcover&dq=books&hl=&cd=14&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=kic4tNzhZF8C&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/SPIN.html?hl=&id=kic4tNzhZF8C"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=kic4tNzhZF8C&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "From the concert stage to the dressing room, from the recording studio to the digital realm, SPIN surveys the modern musical landscape and the culture around it with authoritative reporting, provocative interviews, and a discerning critical ..."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "OugCAAAAMBAJ",
-        "etag": "6fR20bg4mSg",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/OugCAAAAMBAJ",
-        "volumeInfo": {
-            "title": "New York Magazine",
-            "publishedDate": "1997-06-02",
-            "description": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country. With award-winning writing and photography covering everything from politics and food to theater and fashion, the magazine's consistent mission has been to reflect back to its audience the energy and excitement of the city itself, while celebrating New York as both a place and an idea.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 142,
-            "printType": "MAGAZINE",
-            "averageRating": 5,
-            "ratingsCount": 1,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.2.0.preview.1",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=OugCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=OugCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=OugCAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=15&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=OugCAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=OugCAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=OugCAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "qj8EAAAAMBAJ",
-        "etag": "xNJGnncQPCc",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/qj8EAAAAMBAJ",
-        "volumeInfo": {
-            "title": "LIFE",
-            "publishedDate": "1940-01-29",
-            "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 80,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=qj8EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=qj8EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=qj8EAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=16&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=qj8EAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/LIFE.html?hl=&id=qj8EAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=qj8EAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "WikEAAAAMBAJ",
-        "etag": "FV+e4CguY+k",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/WikEAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Billboard",
-            "publishedDate": "1965-11-13",
-            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 68,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=WikEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=WikEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=WikEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=17&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=WikEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=WikEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=WikEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "8AwEAAAAMBAJ",
-        "etag": "osutqC3Wieo",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/8AwEAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Billboard",
-            "publishedDate": "2002-08-31",
-            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 104,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.1.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=8AwEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=8AwEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=8AwEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=18&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=8AwEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=8AwEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=8AwEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "VT7C_Y4Wm54C",
-        "etag": "uxMfPAaTuD0",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/VT7C_Y4Wm54C",
-        "volumeInfo": {
-            "title": "Flying Magazine",
-            "publishedDate": "1993-12",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 106,
-            "printType": "MAGAZINE",
-            "averageRating": 3,
-            "ratingsCount": 2,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "preview-1.0.0",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=VT7C_Y4Wm54C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=VT7C_Y4Wm54C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=VT7C_Y4Wm54C&printsec=frontcover&dq=books&hl=&cd=19&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=VT7C_Y4Wm54C&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Flying_Magazine.html?hl=&id=VT7C_Y4Wm54C"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=VT7C_Y4Wm54C&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "tQcEAAAAMBAJ",
-        "etag": "3O/h7y60ek4",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/tQcEAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Billboard",
-            "publishedDate": "1974-10-12",
-            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 72,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=tQcEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=tQcEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=tQcEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=20&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=tQcEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=tQcEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=tQcEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "ib0DAAAAMBAJ",
-        "etag": "WlkoNYliS4U",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/ib0DAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Jet",
-            "publishedDate": "1989-02-20",
-            "description": "The weekly source of African American political and entertainment news.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 64,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.2.0.preview.1",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=ib0DAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=ib0DAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=ib0DAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=21&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=ib0DAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Jet.html?hl=&id=ib0DAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=ib0DAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "The weekly source of African American political and entertainment news."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "_d8DAAAAMBAJ",
-        "etag": "scG5a861+jM",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/_d8DAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Backpacker",
-            "publishedDate": "1973",
-            "description": "Backpacker brings the outdoors straight to the reader's doorstep, inspiring and enabling them to go more places and enjoy nature more often. The authority on active adventure, Backpacker is the world's first GPS-enabled magazine, and the only magazine whose editors personally test the hiking trails, camping gear, and survival tips they publish. Backpacker's Editors' Choice Awards, an industry honor recognizing design, feature and product innovation, has become the gold standard against which all other outdoor-industry awards are measured.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 104,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.2.0.preview.1",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=_d8DAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=_d8DAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=_d8DAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=22&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=_d8DAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Backpacker.html?hl=&id=_d8DAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=_d8DAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "Backpacker brings the outdoors straight to the reader&#39;s doorstep, inspiring and enabling them to go more places and enjoy nature more often."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "ehMEAAAAMBAJ",
-        "etag": "p0VUNSHYXXE",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/ehMEAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Billboard",
-            "publishedDate": "2004-11-20",
-            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 92,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.1.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=ehMEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=ehMEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=ehMEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=23&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=ehMEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=ehMEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=ehMEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "aAwEAAAAMBAJ",
-        "etag": "hQ/cLhep29c",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/aAwEAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Billboard",
-            "publishedDate": "1943-07-31",
-            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 120,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=aAwEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=aAwEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=aAwEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=24&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=aAwEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=aAwEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=aAwEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "a08EAAAAMBAJ",
-        "etag": "Q4UyAK+2VNM",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/a08EAAAAMBAJ",
-        "volumeInfo": {
-            "title": "LIFE",
-            "publishedDate": "1969-05-30",
-            "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 84,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=a08EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=a08EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=a08EAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=25&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=a08EAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/LIFE.html?hl=&id=a08EAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=a08EAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "jw8EAAAAMBAJ",
-        "etag": "Z2Wje1Spe8k",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/jw8EAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Billboard",
-            "publishedDate": "1993-02-06",
-            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 80,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.2.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=jw8EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=jw8EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=jw8EAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=26&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=jw8EAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=jw8EAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=jw8EAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "bgIAAAAAMBAJ",
-        "etag": "ctogNl/vrsc",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/bgIAAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Maximum PC",
-            "publishedDate": "2008-02",
-            "description": "Maximum PC is the magazine that every computer fanatic, PC gamer or content creator must read. Each and every issue is packed with punishing product reviews, insightful and innovative how-to stories and the illuminating technical articles that enthusiasts crave.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 96,
-            "printType": "MAGAZINE",
-            "averageRating": 4,
-            "ratingsCount": 1,
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.2.0.preview.1",
-            "panelizationSummary": {
-                "containsEpubBubbles": false,
-                "containsImageBubbles": false
-            },
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=bgIAAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=bgIAAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=bgIAAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=27&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=bgIAAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Maximum_PC.html?hl=&id=bgIAAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=bgIAAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "Maximum PC is the magazine that every computer fanatic, PC gamer or content creator must read."
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
         }
     },
     {
         "kind": "books#volume",
         "id": "MC0DAAAAMBAJ",
-        "etag": "zuZE+ImhSxw",
+        "etag": "vp4QbJWg95U",
         "selfLink": "https://www.googleapis.com/books/v1/volumes/MC0DAAAAMBAJ",
         "volumeInfo": {
             "title": "Popular Science",
@@ -1494,8 +86,8 @@
                 "thumbnail": "http://books.google.com/books/content?id=MC0DAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=MC0DAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=28&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=MC0DAAAAMBAJ&dq=books&hl=&source=gbs_api",
+            "previewLink": "http://books.google.com.ar/books?id=MC0DAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=2&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=MC0DAAAAMBAJ&dq=science&hl=&source=gbs_api",
             "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=MC0DAAAAMBAJ"
         },
         "saleInfo": {
@@ -1525,34 +117,36 @@
     },
     {
         "kind": "books#volume",
-        "id": "KzqL-8JnP0IC",
-        "etag": "GU9sPtq5b2k",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/KzqL-8JnP0IC",
+        "id": "0yoDAAAAMBAJ",
+        "etag": "FSF9rId3JNQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/0yoDAAAAMBAJ",
         "volumeInfo": {
-            "title": "Field & Stream",
-            "publishedDate": "1971-05",
-            "description": "FIELD & STREAM, America\u2019s largest outdoor sports magazine, celebrates the outdoor experience with great stories, compelling photography, and sound advice while honoring the traditions hunters and fishermen have passed down for generations.",
+            "title": "Popular Science",
+            "publishedDate": "1960-05",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
             "readingModes": {
                 "text": false,
                 "image": true
             },
-            "pageCount": 206,
+            "pageCount": 262,
             "printType": "MAGAZINE",
+            "averageRating": 1,
+            "ratingsCount": 1,
             "maturityRating": "NOT_MATURE",
             "allowAnonLogging": false,
-            "contentVersion": "0.2.4.0.preview.1",
+            "contentVersion": "0.0.1.0.preview.1",
             "panelizationSummary": {
                 "containsEpubBubbles": false,
                 "containsImageBubbles": false
             },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=KzqL-8JnP0IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=KzqL-8JnP0IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=0yoDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=0yoDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=KzqL-8JnP0IC&printsec=frontcover&dq=books&hl=&cd=29&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=KzqL-8JnP0IC&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Field_Stream.html?hl=&id=KzqL-8JnP0IC"
+            "previewLink": "http://books.google.com.ar/books?id=0yoDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=3&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=0yoDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=0yoDAAAAMBAJ"
         },
         "saleInfo": {
             "country": "AR",
@@ -1571,42 +165,44 @@
             "pdf": {
                 "isAvailable": false
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=KzqL-8JnP0IC&hl=&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=0yoDAAAAMBAJ&hl=&source=gbs_api",
             "accessViewStatus": "SAMPLE",
             "quoteSharingAllowed": false
         },
         "searchInfo": {
-            "textSnippet": "FIELD &amp; STREAM, America\u2019s largest outdoor sports magazine, celebrates the outdoor experience with great stories, compelling photography, and sound advice while honoring the traditions hunters and fishermen have passed down for generations ..."
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
         }
     },
     {
         "kind": "books#volume",
-        "id": "cgsEAAAAMBAJ",
-        "etag": "T8cm/pr2Gvg",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/cgsEAAAAMBAJ",
+        "id": "3iEDAAAAMBAJ",
+        "etag": "r/T+r8rt3Og",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/3iEDAAAAMBAJ",
         "volumeInfo": {
-            "title": "Billboard",
-            "publishedDate": "1963-01-12",
-            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
+            "title": "Popular Science",
+            "publishedDate": "1963-03",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
             "readingModes": {
                 "text": false,
                 "image": true
             },
-            "pageCount": 42,
+            "pageCount": 242,
             "printType": "MAGAZINE",
-            "averageRating": 2,
-            "ratingsCount": 1,
             "maturityRating": "NOT_MATURE",
             "allowAnonLogging": false,
             "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=cgsEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=cgsEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=3iEDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=3iEDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=cgsEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=30&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=cgsEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=cgsEAAAAMBAJ"
+            "previewLink": "http://books.google.com.ar/books?id=3iEDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=4&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=3iEDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=3iEDAAAAMBAJ"
         },
         "saleInfo": {
             "country": "AR",
@@ -1625,23 +221,855 @@
             "pdf": {
                 "isAvailable": false
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=cgsEAAAAMBAJ&hl=&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=3iEDAAAAMBAJ&hl=&source=gbs_api",
             "accessViewStatus": "SAMPLE",
             "quoteSharingAllowed": false
         },
         "searchInfo": {
-            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
         }
     },
     {
         "kind": "books#volume",
-        "id": "_0sEAAAAMBAJ",
-        "etag": "N1/AgabLLto",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/_0sEAAAAMBAJ",
+        "id": "Ok8XtrhowscC",
+        "etag": "bO+t+M6Fd7Q",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Ok8XtrhowscC",
         "volumeInfo": {
-            "title": "LIFE",
-            "publishedDate": "1950-11-27",
-            "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use.",
+            "title": "Popular Science",
+            "publishedDate": "2008-01",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 106,
+            "printType": "MAGAZINE",
+            "averageRating": 4,
+            "ratingsCount": 8,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Ok8XtrhowscC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Ok8XtrhowscC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=Ok8XtrhowscC&printsec=frontcover&dq=science&hl=&cd=5&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=Ok8XtrhowscC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=Ok8XtrhowscC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Ok8XtrhowscC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "OyEDAAAAMBAJ",
+        "etag": "kA1pO0nKcy8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/OyEDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1962-03",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 244,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=OyEDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=OyEDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=OyEDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=6&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=OyEDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=OyEDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=OyEDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "_icDAAAAMBAJ",
+        "etag": "d1mo/UhG9lw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/_icDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1933-04",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 114,
+            "printType": "MAGAZINE",
+            "averageRating": 4,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=_icDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=_icDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=_icDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=7&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=_icDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=_icDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=_icDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "rAAAAAAAMBAJ",
+        "etag": "MelBOGWd9D0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/rAAAAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1984-03",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 184,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=rAAAAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=rAAAAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=rAAAAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=8&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=rAAAAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=rAAAAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=rAAAAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "9CkDAAAAMBAJ",
+        "etag": "G+zdgWAdmvI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/9CkDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1920-02",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 152,
+            "printType": "MAGAZINE",
+            "averageRating": 2.5,
+            "ratingsCount": 2,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=9CkDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=9CkDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=9CkDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=9&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=9CkDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=9CkDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=9CkDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "WSYDAAAAMBAJ",
+        "etag": "n8sUWgpM0Mg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/WSYDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1961-04",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 262,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=WSYDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=WSYDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=WSYDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=10&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=WSYDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=WSYDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=WSYDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "a-p2CJLep4kC",
+        "etag": "ibFoQoaeDF4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/a-p2CJLep4kC",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1998-11",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 116,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=a-p2CJLep4kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=a-p2CJLep4kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=a-p2CJLep4kC&printsec=frontcover&dq=science&hl=&cd=11&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=a-p2CJLep4kC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=a-p2CJLep4kC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=a-p2CJLep4kC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "BCgDAAAAMBAJ",
+        "etag": "EehKD8xv/kI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/BCgDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1931-08",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 122,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 4,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=BCgDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=BCgDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=BCgDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=12&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=BCgDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=BCgDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=BCgDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "giwDAAAAMBAJ",
+        "etag": "lrXRIsrqXWE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/giwDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1878-07",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 128,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=giwDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=giwDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=giwDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=13&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=giwDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=giwDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=giwDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "ogEAAAAAMBAJ",
+        "etag": "DE/umOxGilQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ogEAAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1992-03",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 108,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=ogEAAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=ogEAAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=ogEAAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=14&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=ogEAAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=ogEAAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=ogEAAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "lyoDAAAAMBAJ",
+        "etag": "An3+XvgmgYw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/lyoDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1935-01",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 108,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=lyoDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=lyoDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=lyoDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=15&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=lyoDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=lyoDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=lyoDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "jugDAAAAMBAJ",
+        "etag": "GCW7ry6z5MU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/jugDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Competition Science Vision",
+            "publishedDate": "2000-09",
+            "description": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India. Well-qualified professionals of Physics, Chemistry, Zoology and Botany make contributions to this magazine and craft it with focus on providing complete and to-the-point study material for aspiring candidates. The magazine covers General Knowledge, Science and Technology news, Interviews of toppers of examinations, study material of Physics, Chemistry, Zoology and Botany with model papers, reasoning test questions, facts, quiz contest, general awareness and mental ability test in every monthly issue.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 136,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=jugDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=jugDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=jugDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=16&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=jugDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Competition_Science_Vision.html?hl=&id=jugDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=jugDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "0BvVSP2ugU4C",
+        "etag": "tZhXk+4cKBg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/0BvVSP2ugU4C",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "2002-12",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 148,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=0BvVSP2ugU4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=0BvVSP2ugU4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=0BvVSP2ugU4C&printsec=frontcover&dq=science&hl=&cd=17&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=0BvVSP2ugU4C&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=0BvVSP2ugU4C"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=0BvVSP2ugU4C&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "UaUGpW8M_KMC",
+        "etag": "XJM5DXkWXI4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/UaUGpW8M_KMC",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1994-02",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 100,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=UaUGpW8M_KMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=UaUGpW8M_KMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=UaUGpW8M_KMC&printsec=frontcover&dq=science&hl=&cd=18&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=UaUGpW8M_KMC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=UaUGpW8M_KMC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=UaUGpW8M_KMC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "NC0DAAAAMBAJ",
+        "etag": "9tHSyrXnOio",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/NC0DAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1956-04",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 306,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=NC0DAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=NC0DAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=NC0DAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=19&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=NC0DAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=NC0DAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=NC0DAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "fz0ymWEOyowC",
+        "etag": "Xd8cit2oius",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/fz0ymWEOyowC",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1973-07",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
             "readingModes": {
                 "text": false,
                 "image": true
@@ -1650,70 +1078,19 @@
             "printType": "MAGAZINE",
             "maturityRating": "NOT_MATURE",
             "allowAnonLogging": false,
-            "contentVersion": "preview-1.0.0",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=_0sEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=_0sEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=_0sEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=31&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=_0sEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/LIFE.html?hl=&id=_0sEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=_0sEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "1tcCAAAAMBAJ",
-        "etag": "l2mHxd51fFk",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/1tcCAAAAMBAJ",
-        "volumeInfo": {
-            "title": "New York Magazine",
-            "publishedDate": "1978-12-04",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 176,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.2.0.preview.1",
+            "contentVersion": "0.0.1.0.preview.1",
             "panelizationSummary": {
                 "containsEpubBubbles": false,
                 "containsImageBubbles": false
             },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=1tcCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=1tcCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=fz0ymWEOyowC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=fz0ymWEOyowC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=1tcCAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=32&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=1tcCAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=1tcCAAAAMBAJ"
+            "previewLink": "http://books.google.com.ar/books?id=fz0ymWEOyowC&printsec=frontcover&dq=science&hl=&cd=20&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=fz0ymWEOyowC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=fz0ymWEOyowC"
         },
         "saleInfo": {
             "country": "AR",
@@ -1732,19 +1109,301 @@
             "pdf": {
                 "isAvailable": false
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=1tcCAAAAMBAJ&hl=&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=fz0ymWEOyowC&hl=&source=gbs_api",
             "accessViewStatus": "SAMPLE",
             "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
         }
     },
     {
         "kind": "books#volume",
-        "id": "9X6oBEkKEUwC",
-        "etag": "8NWieCcPwFY",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/9X6oBEkKEUwC",
+        "id": "miQDAAAAMBAJ",
+        "etag": "QFaB+P2iq64",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/miQDAAAAMBAJ",
         "volumeInfo": {
-            "title": "Skiing",
-            "publishedDate": "1998-02",
+            "title": "Popular Science",
+            "publishedDate": "1947-09",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 298,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=miQDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=miQDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=miQDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=21&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=miQDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=miQDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=miQDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "GppZTYajC_AC",
+        "etag": "weBICP8QY6E",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/GppZTYajC_AC",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "2000-01",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 96,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=GppZTYajC_AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=GppZTYajC_AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=GppZTYajC_AC&printsec=frontcover&dq=science&hl=&cd=22&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=GppZTYajC_AC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=GppZTYajC_AC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=GppZTYajC_AC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "5gxIBYlChPwC",
+        "etag": "ZF44Q8hKLG8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/5gxIBYlChPwC",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1973-08",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 134,
+            "printType": "MAGAZINE",
+            "averageRating": 3,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=5gxIBYlChPwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=5gxIBYlChPwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=5gxIBYlChPwC&printsec=frontcover&dq=science&hl=&cd=23&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=5gxIBYlChPwC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=5gxIBYlChPwC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=5gxIBYlChPwC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "PAEAAAAAMBAJ",
+        "etag": "1ZGrb89gSF0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/PAEAAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1979-12",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 164,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=PAEAAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=PAEAAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=PAEAAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=24&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=PAEAAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=PAEAAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=PAEAAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "VycDAAAAMBAJ",
+        "etag": "sBxhizcVBVg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/VycDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1928-02",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 172,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=VycDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=VycDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=VycDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=25&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=VycDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=VycDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=VycDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "fCgDAAAAMBAJ",
+        "etag": "QbgZs2ihrIk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/fCgDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1937-07",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
             "readingModes": {
                 "text": false,
                 "image": true
@@ -1753,120 +1412,19 @@
             "printType": "MAGAZINE",
             "maturityRating": "NOT_MATURE",
             "allowAnonLogging": false,
-            "contentVersion": "preview-1.0.0",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=9X6oBEkKEUwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=9X6oBEkKEUwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=9X6oBEkKEUwC&printsec=frontcover&dq=books&hl=&cd=33&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=9X6oBEkKEUwC&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Skiing.html?hl=&id=9X6oBEkKEUwC"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=9X6oBEkKEUwC&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "D0UEAAAAMBAJ",
-        "etag": "TNZEKM0+W0I",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/D0UEAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Billboard",
-            "publishedDate": "1964-07-25",
-            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 46,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.1.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=D0UEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=D0UEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=D0UEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=34&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=D0UEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=D0UEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=D0UEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "oeEDAAAAMBAJ",
-        "etag": "byE9VLh9BL8",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/oeEDAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Popular Mechanics",
-            "publishedDate": "1957-11",
-            "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 300,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.2.0.preview.1",
+            "contentVersion": "0.0.1.0.preview.1",
             "panelizationSummary": {
                 "containsEpubBubbles": false,
                 "containsImageBubbles": false
             },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=oeEDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=oeEDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=fCgDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=fCgDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=oeEDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=35&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=oeEDAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Mechanics.html?hl=&id=oeEDAAAAMBAJ"
+            "previewLink": "http://books.google.com.ar/books?id=fCgDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=26&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=fCgDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=fCgDAAAAMBAJ"
         },
         "saleInfo": {
             "country": "AR",
@@ -1885,237 +1443,31 @@
             "pdf": {
                 "isAvailable": false
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=oeEDAAAAMBAJ&hl=&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=fCgDAAAAMBAJ&hl=&source=gbs_api",
             "accessViewStatus": "SAMPLE",
             "quoteSharingAllowed": false
         },
         "searchInfo": {
-            "textSnippet": "Whether it\u2019s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
         }
     },
     {
         "kind": "books#volume",
-        "id": "KzAEAAAAMBAJ",
-        "etag": "A3HuLISvOJc",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/KzAEAAAAMBAJ",
-        "volumeInfo": {
-            "title": "InfoWorld",
-            "publishedDate": "1982-07-19",
-            "description": "InfoWorld is targeted to Senior IT professionals. Content is segmented into Channels and Topic Centers. InfoWorld also celebrates people, companies, and projects.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 72,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=KzAEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=KzAEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=KzAEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=36&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=KzAEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/InfoWorld.html?hl=&id=KzAEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=KzAEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "InfoWorld is targeted to Senior IT professionals. Content is segmented into Channels and Topic Centers. InfoWorld also celebrates people, companies, and projects."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "HhIEAAAAMBAJ",
-        "etag": "4rZdg30VvIQ",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/HhIEAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Billboard",
-            "publishedDate": "1992-08-15",
-            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 92,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.1.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=HhIEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=HhIEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=HhIEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=37&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=HhIEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=HhIEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=HhIEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "HUwEAAAAMBAJ",
-        "etag": "rMb23FK3dZY",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/HUwEAAAAMBAJ",
-        "volumeInfo": {
-            "title": "LIFE",
-            "publishedDate": "1965-12-17",
-            "description": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet. Users can browse, search and view photos of today\u2019s people and events. They have free access to share, print and post images for personal use.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 110,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=HUwEAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=HUwEAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=HUwEAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=38&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=HUwEAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/LIFE.html?hl=&id=HUwEAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=HUwEAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "LIFE Magazine is the treasured photographic magazine that chronicled the 20th Century. It now lives on at LIFE.com, the largest, most amazing collection of professional photography on the internet."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "wA8EAAAAMBAJ",
-        "etag": "CZ+S5XpE2Uk",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/wA8EAAAAMBAJ",
-        "volumeInfo": {
-            "title": "Billboard",
-            "publishedDate": "2002-01-26",
-            "description": "In its 114th year, Billboard remains the world's premier weekly music publication and a diverse digital, events, brand, content and data licensing platform. Billboard publishes the most trusted charts and offers unrivaled reporting about the latest music, video, gaming, media, digital and mobile entertainment issues and trends.",
-            "readingModes": {
-                "text": false,
-                "image": true
-            },
-            "pageCount": 76,
-            "printType": "MAGAZINE",
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.0.1.0.preview.1",
-            "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=wA8EAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=wA8EAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=wA8EAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=39&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=wA8EAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Billboard.html?hl=&id=wA8EAAAAMBAJ"
-        },
-        "saleInfo": {
-            "country": "AR",
-            "saleability": "NOT_FOR_SALE",
-            "isEbook": false
-        },
-        "accessInfo": {
-            "country": "AR",
-            "viewability": "ALL_PAGES",
-            "embeddable": true,
-            "publicDomain": false,
-            "textToSpeechPermission": "ALLOWED",
-            "epub": {
-                "isAvailable": false
-            },
-            "pdf": {
-                "isAvailable": false
-            },
-            "webReaderLink": "http://play.google.com/books/reader?id=wA8EAAAAMBAJ&hl=&source=gbs_api",
-            "accessViewStatus": "SAMPLE",
-            "quoteSharingAllowed": false
-        },
-        "searchInfo": {
-            "textSnippet": "In its 114th year, Billboard remains the world&#39;s premier weekly music publication and a diverse digital, events, brand, content and data licensing platform."
-        }
-    },
-    {
-        "kind": "books#volume",
-        "id": "MCYDAAAAMBAJ",
-        "etag": "yN5fVujaPVo",
-        "selfLink": "https://www.googleapis.com/books/v1/volumes/MCYDAAAAMBAJ",
+        "id": "2CUDAAAAMBAJ",
+        "etag": "sunzXuWGRkw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/2CUDAAAAMBAJ",
         "volumeInfo": {
             "title": "Popular Science",
-            "publishedDate": "1965-01",
+            "publishedDate": "1964-08",
             "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
             "readingModes": {
                 "text": false,
                 "image": true
             },
-            "pageCount": 222,
+            "pageCount": 196,
             "printType": "MAGAZINE",
+            "averageRating": 3,
+            "ratingsCount": 1,
             "maturityRating": "NOT_MATURE",
             "allowAnonLogging": false,
             "contentVersion": "0.0.1.0.preview.1",
@@ -2124,13 +1476,13 @@
                 "containsImageBubbles": false
             },
             "imageLinks": {
-                "smallThumbnail": "http://books.google.com/books/content?id=MCYDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-                "thumbnail": "http://books.google.com/books/content?id=MCYDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                "smallThumbnail": "http://books.google.com/books/content?id=2CUDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=2CUDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
             },
             "language": "en",
-            "previewLink": "http://books.google.com.ar/books?id=MCYDAAAAMBAJ&printsec=frontcover&dq=books&hl=&cd=40&source=gbs_api",
-            "infoLink": "http://books.google.com.ar/books?id=MCYDAAAAMBAJ&dq=books&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=MCYDAAAAMBAJ"
+            "previewLink": "http://books.google.com.ar/books?id=2CUDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=27&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=2CUDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=2CUDAAAAMBAJ"
         },
         "saleInfo": {
             "country": "AR",
@@ -2149,7 +1501,719 @@
             "pdf": {
                 "isAvailable": false
             },
-            "webReaderLink": "http://play.google.com/books/reader?id=MCYDAAAAMBAJ&hl=&source=gbs_api",
+            "webReaderLink": "http://play.google.com/books/reader?id=2CUDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "mi324OOv7VkC",
+        "etag": "EZVcSA7dLOU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/mi324OOv7VkC",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1982-05",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 182,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=mi324OOv7VkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=mi324OOv7VkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=mi324OOv7VkC&printsec=frontcover&dq=science&hl=&cd=28&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=mi324OOv7VkC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=mi324OOv7VkC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=mi324OOv7VkC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "j-gDAAAAMBAJ",
+        "etag": "NseIutXbFpk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/j-gDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Competition Science Vision",
+            "publishedDate": "2001-07",
+            "description": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India. Well-qualified professionals of Physics, Chemistry, Zoology and Botany make contributions to this magazine and craft it with focus on providing complete and to-the-point study material for aspiring candidates. The magazine covers General Knowledge, Science and Technology news, Interviews of toppers of examinations, study material of Physics, Chemistry, Zoology and Botany with model papers, reasoning test questions, facts, quiz contest, general awareness and mental ability test in every monthly issue.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 136,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=j-gDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=j-gDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=j-gDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=29&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=j-gDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Competition_Science_Vision.html?hl=&id=j-gDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=j-gDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Competition Science Vision (monthly magazine) is published by Pratiyogita Darpan Group in India and is one of the best Science monthly magazines available for medical entrance examination students in India."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "xScDAAAAMBAJ",
+        "etag": "iiwcUWGzW1o",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/xScDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1941-08",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 226,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=xScDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=xScDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=xScDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=30&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=xScDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=xScDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=xScDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "twAAAAAAMBAJ",
+        "etag": "EVlz9aXm/r8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/twAAAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "2004-09",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 186,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=twAAAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=twAAAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=twAAAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=31&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=twAAAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=twAAAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=twAAAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "Y3Dkp0Pi0FkC",
+        "etag": "fPl9OjtNa9I",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Y3Dkp0Pi0FkC",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1972-03",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 166,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Y3Dkp0Pi0FkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Y3Dkp0Pi0FkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=Y3Dkp0Pi0FkC&printsec=frontcover&dq=science&hl=&cd=32&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=Y3Dkp0Pi0FkC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=Y3Dkp0Pi0FkC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Y3Dkp0Pi0FkC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "iXmscaJ-c3QC",
+        "etag": "pEtBGLWxjPQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/iXmscaJ-c3QC",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "2001-06",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 84,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=iXmscaJ-c3QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=iXmscaJ-c3QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=iXmscaJ-c3QC&printsec=frontcover&dq=science&hl=&cd=33&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=iXmscaJ-c3QC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=iXmscaJ-c3QC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=iXmscaJ-c3QC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "-yUDAAAAMBAJ",
+        "etag": "mxOfJ3Idts0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/-yUDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1965-11",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 230,
+            "printType": "MAGAZINE",
+            "averageRating": 5,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=-yUDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=-yUDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=-yUDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=34&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=-yUDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=-yUDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=-yUDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "wiUDAAAAMBAJ",
+        "etag": "ftc3NwT15yw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wiUDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1958-06",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 244,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=wiUDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=wiUDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=wiUDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=35&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=wiUDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=wiUDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=wiUDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "zSADAAAAMBAJ",
+        "etag": "gWuhLpwTHIc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/zSADAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1954-07",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 254,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=zSADAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=zSADAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=zSADAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=36&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=zSADAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=zSADAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=zSADAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "1T4ORu6EICkC",
+        "etag": "01514QYARjg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/1T4ORu6EICkC",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1974-04",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 184,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=1T4ORu6EICkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=1T4ORu6EICkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=1T4ORu6EICkC&printsec=frontcover&dq=science&hl=&cd=37&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=1T4ORu6EICkC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=1T4ORu6EICkC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=1T4ORu6EICkC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "eeWcitAiSBUC",
+        "etag": "W9MKzfyrwck",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/eeWcitAiSBUC",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1997-06",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 146,
+            "printType": "MAGAZINE",
+            "averageRating": 1,
+            "ratingsCount": 1,
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=eeWcitAiSBUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=eeWcitAiSBUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=eeWcitAiSBUC&printsec=frontcover&dq=science&hl=&cd=38&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=eeWcitAiSBUC&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=eeWcitAiSBUC"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=eeWcitAiSBUC&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "cyIDAAAAMBAJ",
+        "etag": "gpKtWTqc0kE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/cyIDAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1875-11",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 132,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.1.0.preview.1",
+            "panelizationSummary": {
+                "containsEpubBubbles": false,
+                "containsImageBubbles": false
+            },
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=cyIDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=cyIDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=cyIDAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=39&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=cyIDAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=cyIDAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=cyIDAAAAMBAJ&hl=&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+            "textSnippet": "Popular Science gives our readers the information and tools to improve their technology and their world."
+        }
+    },
+    {
+        "kind": "books#volume",
+        "id": "wAEAAAAAMBAJ",
+        "etag": "BLYRrd95QoA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wAEAAAAAMBAJ",
+        "volumeInfo": {
+            "title": "Popular Science",
+            "publishedDate": "1976-01",
+            "description": "Popular Science gives our readers the information and tools to improve their technology and their world. The core belief that Popular Science and our readers share: The future is going to be better, and science and technology are the driving forces that will help make it better.",
+            "readingModes": {
+                "text": false,
+                "image": true
+            },
+            "pageCount": 144,
+            "printType": "MAGAZINE",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=wAEAAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=wAEAAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com.ar/books?id=wAEAAAAAMBAJ&printsec=frontcover&dq=science&hl=&cd=40&source=gbs_api",
+            "infoLink": "http://books.google.com.ar/books?id=wAEAAAAAMBAJ&dq=science&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Science.html?hl=&id=wAEAAAAAMBAJ"
+        },
+        "saleInfo": {
+            "country": "AR",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "AR",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=wAEAAAAAMBAJ&hl=&source=gbs_api",
             "accessViewStatus": "SAMPLE",
             "quoteSharingAllowed": false
         },
