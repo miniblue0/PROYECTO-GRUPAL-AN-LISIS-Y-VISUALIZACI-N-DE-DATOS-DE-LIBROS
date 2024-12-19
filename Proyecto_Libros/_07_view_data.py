@@ -48,7 +48,6 @@ def view_data(table, connection):
             return
           
 
-
         #df = df.nlargest(20, 'popularity')  
         
 

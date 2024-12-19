@@ -41,7 +41,7 @@ def proceso_etl(query, max_results, s3_remote_path):
         load_to_sql_server(transformed_books, table_name, SQL_SERVER_CONNECTION) #se cargan a sql 
         print("carga de datos a SQL server completada.")
         
-        ###
+        #
         print("iniciando la creacion de la vista de popularidad..")
         view_data(table_name, SQL_SERVER_CONNECTION) #se genera la vista 
         print("proceso terminado")
